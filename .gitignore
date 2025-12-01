@@ -13,3 +13,5 @@ buildroot/output/
 *.d
 *.dtb
 *.dtbo
+*/buildroot/dl/
+*/buildroot/output/
