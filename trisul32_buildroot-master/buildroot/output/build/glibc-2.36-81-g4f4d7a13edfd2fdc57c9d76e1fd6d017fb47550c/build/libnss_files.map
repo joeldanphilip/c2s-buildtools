@@ -1,6 +1,0 @@
-GLIBC_PRIVATE {
-  global:
-    __libnss_files_version_placeholder;
-  local:
-    *;
-};

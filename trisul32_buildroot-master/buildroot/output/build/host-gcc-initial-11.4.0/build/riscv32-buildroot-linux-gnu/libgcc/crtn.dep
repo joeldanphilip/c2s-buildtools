@@ -1,1 +1,0 @@
-crtn.o: ../../../libgcc/config/riscv/crtn.S

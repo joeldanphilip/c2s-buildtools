@@ -1,2 +1,0 @@
-initscripts,./etc/init.d/rcK
-initscripts,./etc/init.d/rcS

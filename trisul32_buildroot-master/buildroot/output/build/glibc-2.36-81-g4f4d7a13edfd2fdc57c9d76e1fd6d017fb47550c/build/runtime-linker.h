@@ -1,1 +1,0 @@
-#define RUNTIME_LINKER "/lib/ld-linux-riscv32-ilp32.so.1"

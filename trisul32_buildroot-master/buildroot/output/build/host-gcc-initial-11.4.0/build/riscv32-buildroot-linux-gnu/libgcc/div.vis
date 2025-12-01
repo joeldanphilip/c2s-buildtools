@@ -1,5 +1,0 @@
-	.hidden __divsi3
-	.hidden __udivsi3
-	.hidden __hidden___udivsi3
-	.hidden __umodsi3
-	.hidden __modsi3

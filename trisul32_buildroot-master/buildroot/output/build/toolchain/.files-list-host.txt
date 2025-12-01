@@ -1,2 +1,0 @@
-toolchain,./share/buildroot/toolchainfile.cmake
-toolchain,./share/buildroot/Platform/Buildroot.cmake

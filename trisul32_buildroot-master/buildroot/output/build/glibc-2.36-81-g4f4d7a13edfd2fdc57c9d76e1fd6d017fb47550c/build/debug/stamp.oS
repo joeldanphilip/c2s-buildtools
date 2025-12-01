@@ -1,1 +1,0 @@
-debug/stack_chk_fail_local.oS

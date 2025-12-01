@@ -1,3 +1,0 @@
-crti.o: ../../../libgcc/config/riscv/crti.S \
- /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/riscv32-buildroot-linux-gnu/sysroot/usr/include/stdc-predef.h
-/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/riscv32-buildroot-linux-gnu/sysroot/usr/include/stdc-predef.h:

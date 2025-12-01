@@ -1,1 +1,0 @@
-cmd_archival/lib.a := rm -f archival/lib.a; /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/bin/riscv32-buildroot-linux-gnu-gcc-ar  rcs archival/lib.a archival/ar.o archival/bbunzip.o archival/chksum_and_xwrite_tar_header.o archival/cpio.o archival/gzip.o archival/lzop.o archival/tar.o archival/unzip.o

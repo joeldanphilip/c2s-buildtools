@@ -1,1 +1,0 @@
-cmd_applets/built-in.o :=  /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/bin/riscv32-buildroot-linux-gnu-gcc -nostdlib -nostdlib -march=rv32ima -mabi=ilp32 -r -o applets/built-in.o applets/applets.o

@@ -1,1 +1,0 @@
-cmd_klibc-utils/lib.a := rm -f klibc-utils/lib.a; /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/bin/riscv32-buildroot-linux-gnu-gcc-ar  rcs klibc-utils/lib.a klibc-utils/nuke.o klibc-utils/resume.o

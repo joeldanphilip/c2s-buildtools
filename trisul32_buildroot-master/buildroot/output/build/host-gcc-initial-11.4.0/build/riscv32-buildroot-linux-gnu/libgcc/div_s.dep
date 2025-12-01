@@ -1,3 +1,0 @@
-div_s.o: ../../../libgcc/config/riscv/div.S \
- ../../../libgcc/config/riscv/riscv-asm.h
-../../../libgcc/config/riscv/riscv-asm.h:

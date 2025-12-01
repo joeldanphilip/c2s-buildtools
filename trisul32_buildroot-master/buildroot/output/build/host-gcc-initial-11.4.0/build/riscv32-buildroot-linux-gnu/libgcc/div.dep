@@ -1,4 +1,0 @@
-div.o: ../../../libgcc/config/riscv/div.S div.vis \
- ../../../libgcc/config/riscv/riscv-asm.h
-div.vis:
-../../../libgcc/config/riscv/riscv-asm.h:

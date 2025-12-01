@@ -1,1 +1,0 @@
-crti.o: ../../../libgcc/config/riscv/crti.S

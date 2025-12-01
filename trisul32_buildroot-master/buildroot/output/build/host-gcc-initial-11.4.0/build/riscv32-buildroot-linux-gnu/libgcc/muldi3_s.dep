@@ -1,3 +1,0 @@
-muldi3_s.o: ../../../libgcc/config/riscv/muldi3.S \
- ../../../libgcc/config/riscv/riscv-asm.h
-../../../libgcc/config/riscv/riscv-asm.h:

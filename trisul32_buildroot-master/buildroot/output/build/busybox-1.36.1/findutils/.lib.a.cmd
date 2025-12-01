@@ -1,1 +1,0 @@
-cmd_findutils/lib.a := rm -f findutils/lib.a; /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/bin/riscv32-buildroot-linux-gnu-gcc-ar  rcs findutils/lib.a findutils/find.o findutils/grep.o findutils/xargs.o
