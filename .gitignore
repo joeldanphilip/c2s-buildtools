@@ -1,0 +1,15 @@
+buildroot/dl/
+buildroot/output/
+*.gch
+*.o
+*.a
+*.tar.xz
+*.tar.gz
+*.patch
+*.img
+*.iso
+*.bin
+*.elf
+*.d
+*.dtb
+*.dtbo
