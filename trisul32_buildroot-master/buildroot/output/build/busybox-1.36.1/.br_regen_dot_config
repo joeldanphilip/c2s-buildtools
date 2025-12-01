@@ -1,0 +1,13 @@
+oldconfig
+allmodconfig
+silentoldconfig
+gconfig
+allyesconfig
+defconfig
+xconfig
+menuconfig
+config
+randconfig
+allnoconfig
+config
+config

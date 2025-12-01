@@ -1,0 +1,6 @@
+save-restore.o: ../../../libgcc/config/riscv/save-restore.S \
+ /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/riscv32-buildroot-linux-gnu/sysroot/usr/include/stdc-predef.h \
+ save-restore.vis ../../../libgcc/config/riscv/riscv-asm.h
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/riscv32-buildroot-linux-gnu/sysroot/usr/include/stdc-predef.h:
+save-restore.vis:
+../../../libgcc/config/riscv/riscv-asm.h:

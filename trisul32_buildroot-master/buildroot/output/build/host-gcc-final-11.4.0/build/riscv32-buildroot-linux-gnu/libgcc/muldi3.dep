@@ -1,0 +1,6 @@
+muldi3.o: ../../../libgcc/config/riscv/muldi3.S \
+ /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/riscv32-buildroot-linux-gnu/sysroot/usr/include/stdc-predef.h \
+ muldi3.vis ../../../libgcc/config/riscv/riscv-asm.h
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/riscv32-buildroot-linux-gnu/sysroot/usr/include/stdc-predef.h:
+muldi3.vis:
+../../../libgcc/config/riscv/riscv-asm.h:

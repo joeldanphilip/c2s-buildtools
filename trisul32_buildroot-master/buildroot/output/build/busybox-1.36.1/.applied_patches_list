@@ -1,0 +1,8 @@
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/package/busybox/0001-networking-libiproute-use-linux-if_packet.h-instead-.patch
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/package/busybox/0002-Makefile.flags-strip-non-l-arguments-returned-by-pkg.patch
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/package/busybox/0003-libbb-sockaddr2str-ensure-only-printable-characters-.patch
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/package/busybox/0004-nslookup-sanitize-all-printed-strings-with-printable.patch
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/package/busybox/0005-seedrng-fix-for-glibc-2.24-not-providing-getrandom.patch
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/package/busybox/0006-seedrng-fix-for-glibc-2.24-not-providing-random-head.patch
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/package/busybox/0007-seedrng-fix-getrandom-detection-for-non-glibc-libc.patch
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/package/busybox/0008-shell-fix-SIGWINCH-and-SIGCHLD-in-hush-interrupting-.patch

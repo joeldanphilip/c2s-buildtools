@@ -1,0 +1,6 @@
+autossh,./usr/bin/autossh
+autossh,./usr/share/doc/autossh/CHANGES
+autossh,./usr/share/doc/autossh/README
+autossh,./usr/share/examples/autossh/autossh.host
+autossh,./usr/share/examples/autossh/rscreen
+autossh,./usr/share/man/man1/autossh.1

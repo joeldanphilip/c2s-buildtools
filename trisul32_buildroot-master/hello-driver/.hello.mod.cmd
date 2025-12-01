@@ -1,0 +1,1 @@
+cmd_/home/premjith/Desktop/gc2025/TRISUL32_BUILDROOT/hello-driver/hello.mod := { echo  /home/premjith/Desktop/gc2025/TRISUL32_BUILDROOT/hello-driver/hello.o; echo; } > /home/premjith/Desktop/gc2025/TRISUL32_BUILDROOT/hello-driver/hello.mod

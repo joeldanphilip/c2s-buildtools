@@ -1,0 +1,7 @@
+/* Generated automatically. */
+static const char configuration_arguments[] = "./configure --prefix=/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host --sysconfdir=/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/etc --enable-static --target=riscv32-buildroot-linux-gnu --with-sysroot=/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/riscv32-buildroot-linux-gnu/sysroot --enable-__cxa_atexit --with-gnu-ld --disable-libssp --disable-multilib --disable-decimal-float --enable-plugins --enable-lto --with-gmp=/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host --with-mpc=/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host --with-mpfr=/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host --with-pkgversion='Buildroot 2023.02.5' --with-bugurl=http://bugs.buildroot.net/ --without-zstd --disable-libquadmath --disable-libquadmath-support --enable-tls --enable-threads --without-isl --without-cloog --with-arch=rv32ima --with-abi=ilp32 --enable-languages=c,c++,fortran --with-build-time-tools=/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/riscv32-buildroot-linux-gnu/bin --enable-shared --disable-libgomp";
+static const char thread_model[] = "posix";
+
+static const struct {
+  const char *name, *value;
+} configure_default_options[] = { { "abi", "ilp32" }, { "arch", "rv32ima" }, { "isa_spec", "2.2" } };

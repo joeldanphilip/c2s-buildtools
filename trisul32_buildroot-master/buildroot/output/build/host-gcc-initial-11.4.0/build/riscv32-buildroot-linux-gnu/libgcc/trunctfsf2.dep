@@ -1,0 +1,17 @@
+trunctfsf2.o: ../../../libgcc/soft-fp/trunctfsf2.c \
+ ../../../libgcc/soft-fp/soft-fp.h sfp-machine.h \
+ ../../../libgcc/soft-fp/op-1.h ../../../libgcc/soft-fp/op-2.h \
+ ../../../libgcc/soft-fp/op-4.h ../../../libgcc/soft-fp/op-8.h \
+ ../../../libgcc/soft-fp/op-common.h \
+ ../../../libgcc/../include/longlong.h ../../../libgcc/soft-fp/single.h \
+ ../../../libgcc/soft-fp/quad.h
+../../../libgcc/soft-fp/soft-fp.h:
+sfp-machine.h:
+../../../libgcc/soft-fp/op-1.h:
+../../../libgcc/soft-fp/op-2.h:
+../../../libgcc/soft-fp/op-4.h:
+../../../libgcc/soft-fp/op-8.h:
+../../../libgcc/soft-fp/op-common.h:
+../../../libgcc/../include/longlong.h:
+../../../libgcc/soft-fp/single.h:
+../../../libgcc/soft-fp/quad.h:

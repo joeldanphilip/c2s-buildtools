@@ -1,0 +1,6 @@
+host-mpc,./lib/libmpc.so.3.2.1
+host-mpc,./lib/libmpc.so.3
+host-mpc,./lib/libmpc.so
+host-mpc,./lib/libmpc.la
+host-mpc,./share/info/mpc.info
+host-mpc,./include/mpc.h

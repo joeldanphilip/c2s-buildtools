@@ -1,0 +1,1 @@
+cmd_miscutils/built-in.o :=  rm -f miscutils/built-in.o; /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/bin/riscv32-buildroot-linux-gnu-gcc-ar rcs miscutils/built-in.o

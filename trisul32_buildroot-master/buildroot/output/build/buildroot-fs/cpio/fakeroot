@@ -1,0 +1,13 @@
+#!/bin/sh
+set -e
+chown -h -R 0:0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/buildroot-fs/cpio/target
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/bin/makedevs -d /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/buildroot-fs/full_devices_table.txt /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/buildroot-fs/cpio/target
+   	rm -rf /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/buildroot-fs/cpio/target/usr/lib/udev/hwdb.d/ /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/buildroot-fs/cpio/target/etc/udev/hwdb.d/
+   	if [ ! -e /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/buildroot-fs/cpio/target/init ]; then /usr/bin/install -m 0755 fs/cpio/init /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/buildroot-fs/cpio/target/init; fi
+	mkdir -p /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/buildroot-fs/cpio/target/dev
+	mknod -m 0622 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/buildroot-fs/cpio/target/dev/console c 5 1
+find /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/buildroot-fs/cpio/target/run/ -mindepth 1 -prune -print0 | xargs -0r rm -rf --
+find /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/buildroot-fs/cpio/target/tmp/ -mindepth 1 -prune -print0 | xargs -0r rm -rf --
+   
+   
+   	cd /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/buildroot-fs/cpio/target && find . | LC_ALL=C sort | cpio  --quiet -o -H newc > /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/images/rootfs.cpio

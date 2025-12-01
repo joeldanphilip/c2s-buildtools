@@ -1,0 +1,11 @@
+GLIBC_2.33 {
+  global:
+    __librt_version_placeholder;
+    __librt_version_placeholder;
+    __librt_version_placeholder;
+    __librt_version_placeholder;
+    __librt_version_placeholder;
+    __librt_version_placeholder;
+  local:
+    *;
+};

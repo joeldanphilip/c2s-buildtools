@@ -1,0 +1,9 @@
+skeleton-init-sysv,./etc/fstab
+skeleton-init-sysv,./dev/log
+skeleton-init-sysv,./var/cache
+skeleton-init-sysv,./var/lock
+skeleton-init-sysv,./var/log
+skeleton-init-sysv,./var/run
+skeleton-init-sysv,./var/spool
+skeleton-init-sysv,./var/tmp
+skeleton-init-sysv,./var/lib/misc

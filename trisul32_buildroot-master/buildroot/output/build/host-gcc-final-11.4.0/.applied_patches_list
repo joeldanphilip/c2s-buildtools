@@ -1,0 +1,6 @@
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/package/gcc/11.4.0/0001-or1k-Add-mcmodel-option-to-handle-large-GOTs.patch
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/package/gcc/11.4.0/0002-or1k-Use-cmodel-large-when-building-crtstuff.patch
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/package/gcc/11.4.0/0003-gcc-define-_REENTRANT-for-OpenRISC-when-pthread-is-p.patch
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/package/gcc/11.4.0/0004-disable-split-stack-for-non-thread-builds.patch
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/package/gcc/11.4.0/0005-fixinc-don-t-fix-machine-names-in-__has_include-.-PR.patch
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/package/gcc/11.4.0/0006-or1k-Only-define-TARGET_HAVE_TLS-when-HAVE_AS_TLS.patch

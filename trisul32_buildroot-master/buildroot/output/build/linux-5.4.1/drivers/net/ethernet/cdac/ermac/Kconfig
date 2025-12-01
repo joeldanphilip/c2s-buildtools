@@ -1,0 +1,8 @@
+config NET_CDAC_ERMAC
+        tristate "CDAC ethernet ERMAC (10/100) on C-DAC devices"
+        depends on ARCH_RV32I
+        select PHYLIB
+        help
+	  Say Y or M here if you want to use the C-DAC ethernet MAC (10/100) included on
+	  some CDAC RISCV devices. You can safely enable this option for CDAC
+	  SoC. Also available as a module.

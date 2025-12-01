@@ -1,0 +1,3 @@
+atomic.o: ../../../libgcc/config/riscv/atomic.c \
+ /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/host-gcc-initial-11.4.0/build/gcc/include/stdbool.h
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/host-gcc-initial-11.4.0/build/gcc/include/stdbool.h:

@@ -1,0 +1,1 @@
+cmd_editors/lib.a := rm -f editors/lib.a; /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/bin/riscv32-buildroot-linux-gnu-gcc-ar  rcs editors/lib.a editors/awk.o editors/cmp.o editors/diff.o editors/patch.o editors/sed.o editors/vi.o

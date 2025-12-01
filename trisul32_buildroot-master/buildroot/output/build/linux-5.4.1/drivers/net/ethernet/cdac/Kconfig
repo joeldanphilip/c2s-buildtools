@@ -1,0 +1,8 @@
+config CDAC_ENET
+        tristate "CDAC ethernet MAC on CDAC devices"
+        depends on ARCH_RV32I
+        select PHYLIB
+        help
+	  Say Y or M here if you want to use the C-DAC GMAC included on
+	  some CDAC RISCV devices. You can safely enable this option for CDAC
+	  SoC. Also available as a module.

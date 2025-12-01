@@ -1,0 +1,47 @@
+_divhc3.o: ../../../libgcc/libgcc2.c ../.././gcc/tconfig.h \
+ ../.././gcc/auto-host.h ../../../libgcc/../include/ansidecl.h \
+ ../../../libgcc/../gcc/tsystem.h \
+ /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/host-gcc-initial-11.4.0/build/gcc/include/stddef.h \
+ /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/host-gcc-initial-11.4.0/build/gcc/include/float.h \
+ ../../../libgcc/../include/filenames.h \
+ ../../../libgcc/../include/hashtab.h \
+ ../../../libgcc/../include/ansidecl.h ../../../libgcc/../gcc/coretypes.h \
+ ../.././gcc/tm.h ../.././gcc/options.h \
+ ../../../libgcc/../gcc/flag-types.h \
+ ../../../libgcc/../gcc/config/riscv/riscv-opts.h \
+ ../.././gcc/insn-constants.h ../../../libgcc/../gcc/config/elfos.h \
+ ../../../libgcc/../gcc/config/gnu-user.h \
+ ../../../libgcc/../gcc/config/linux.h \
+ ../../../libgcc/../gcc/config/glibc-stdint.h \
+ ../../../libgcc/../gcc/config/riscv/riscv.h \
+ ../../../libgcc/../gcc/config/riscv/linux.h \
+ ../../../libgcc/../gcc/config/initfini-array.h ../.././gcc/insn-modes.h \
+ ../../../libgcc/../gcc/defaults.h libgcc_tm.h ../../../libgcc/libgcc2.h \
+ ../../../libgcc/../include/longlong.h
+../.././gcc/tconfig.h:
+../.././gcc/auto-host.h:
+../../../libgcc/../include/ansidecl.h:
+../../../libgcc/../gcc/tsystem.h:
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/host-gcc-initial-11.4.0/build/gcc/include/stddef.h:
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/host-gcc-initial-11.4.0/build/gcc/include/float.h:
+../../../libgcc/../include/filenames.h:
+../../../libgcc/../include/hashtab.h:
+../../../libgcc/../include/ansidecl.h:
+../../../libgcc/../gcc/coretypes.h:
+../.././gcc/tm.h:
+../.././gcc/options.h:
+../../../libgcc/../gcc/flag-types.h:
+../../../libgcc/../gcc/config/riscv/riscv-opts.h:
+../.././gcc/insn-constants.h:
+../../../libgcc/../gcc/config/elfos.h:
+../../../libgcc/../gcc/config/gnu-user.h:
+../../../libgcc/../gcc/config/linux.h:
+../../../libgcc/../gcc/config/glibc-stdint.h:
+../../../libgcc/../gcc/config/riscv/riscv.h:
+../../../libgcc/../gcc/config/riscv/linux.h:
+../../../libgcc/../gcc/config/initfini-array.h:
+../.././gcc/insn-modes.h:
+../../../libgcc/../gcc/defaults.h:
+libgcc_tm.h:
+../../../libgcc/libgcc2.h:
+../../../libgcc/../include/longlong.h:

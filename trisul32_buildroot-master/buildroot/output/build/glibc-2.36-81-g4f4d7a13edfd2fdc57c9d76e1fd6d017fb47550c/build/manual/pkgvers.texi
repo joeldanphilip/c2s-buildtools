@@ -1,0 +1,5 @@
+@ifclear PKGVERS
+@set PKGVERS
+@set PKGVERSION (Buildroot) 
+@set REPORT_BUGS_TO @uref{https://www.gnu.org/software/libc/bugs.html}
+@end ifclear

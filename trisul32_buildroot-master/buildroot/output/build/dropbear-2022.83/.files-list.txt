@@ -1,0 +1,8 @@
+dropbear,./usr/sbin/dropbear
+dropbear,./usr/bin/dropbearkey
+dropbear,./usr/bin/dropbearconvert
+dropbear,./usr/bin/scp
+dropbear,./usr/bin/dbclient
+dropbear,./usr/bin/ssh
+dropbear,./etc/dropbear
+dropbear,./etc/init.d/S50dropbear

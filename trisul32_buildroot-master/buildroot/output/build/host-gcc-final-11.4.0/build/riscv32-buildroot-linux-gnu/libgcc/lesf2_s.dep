@@ -1,0 +1,17 @@
+lesf2_s.o: ../../../libgcc/soft-fp/lesf2.c \
+ /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/riscv32-buildroot-linux-gnu/sysroot/usr/include/stdc-predef.h \
+ ../../../libgcc/soft-fp/soft-fp.h sfp-machine.h \
+ ../../../libgcc/soft-fp/op-1.h ../../../libgcc/soft-fp/op-2.h \
+ ../../../libgcc/soft-fp/op-4.h ../../../libgcc/soft-fp/op-8.h \
+ ../../../libgcc/soft-fp/op-common.h \
+ ../../../libgcc/../include/longlong.h ../../../libgcc/soft-fp/single.h
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/riscv32-buildroot-linux-gnu/sysroot/usr/include/stdc-predef.h:
+../../../libgcc/soft-fp/soft-fp.h:
+sfp-machine.h:
+../../../libgcc/soft-fp/op-1.h:
+../../../libgcc/soft-fp/op-2.h:
+../../../libgcc/soft-fp/op-4.h:
+../../../libgcc/soft-fp/op-8.h:
+../../../libgcc/soft-fp/op-common.h:
+../../../libgcc/../include/longlong.h:
+../../../libgcc/soft-fp/single.h:

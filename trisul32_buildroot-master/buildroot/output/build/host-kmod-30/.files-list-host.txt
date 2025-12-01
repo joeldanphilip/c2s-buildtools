@@ -1,0 +1,9 @@
+host-kmod,./include/libkmod.h
+host-kmod,./lib/pkgconfig/libkmod.pc
+host-kmod,./share/bash-completion/completions/kmod
+host-kmod,./lib/libkmod.so.2.4.0
+host-kmod,./lib/libkmod.so.2
+host-kmod,./lib/libkmod.so
+host-kmod,./lib/libkmod.la
+host-kmod,./bin/kmod
+host-kmod,./sbin/depmod

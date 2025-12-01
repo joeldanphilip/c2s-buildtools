@@ -1,0 +1,22 @@
+GLIBC_2.33 {
+  global:
+    __libpthread_version_placeholder;
+    __libpthread_version_placeholder;
+    __libpthread_version_placeholder;
+    __libpthread_version_placeholder;
+    __libpthread_version_placeholder;
+    __libpthread_version_placeholder;
+    __libpthread_version_placeholder;
+    __libpthread_version_placeholder;
+    __libpthread_version_placeholder;
+    __libpthread_version_placeholder;
+    __libpthread_version_placeholder;
+    __libpthread_version_placeholder;
+    __libpthread_version_placeholder;
+    __libpthread_version_placeholder;
+    __libpthread_version_placeholder;
+    __libpthread_version_placeholder;
+    __libpthread_version_placeholder;
+  local:
+    *;
+};

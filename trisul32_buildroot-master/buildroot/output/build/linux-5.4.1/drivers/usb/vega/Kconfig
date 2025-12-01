@@ -1,0 +1,31 @@
+config USB_VEGA
+	tristate "VEGA USB support"	
+	select USB_COMMON
+	---help---
+
+	  If unsure, say N.
+
+config USB_VEGA_HCD
+	tristate "VEGA USB HCD Supported"
+	depends on USB_VEGA && USB 
+	help
+	  Say Y or M here if your system as an VEGA USB host controller
+	 
+	  To compile this driver as a module, choose M here: the
+	  module will be called vega-usb-hcd.
+	  
+config USB_VEGA_UDC
+	tristate "VEGA USB UDC Supported"
+	depends on USB_VEGA && USB_GADGET
+	help
+	  Say Y or M here if your system as an VEGA USB device controller
+	 
+	  To compile this driver as a module, choose M here: the
+	  module will be called vega-usb-udc.
+	  
+	  
+
+	  
+
+
+

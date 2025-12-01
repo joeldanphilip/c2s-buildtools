@@ -1,0 +1,4 @@
+save-restore.o: ../../../libgcc/config/riscv/save-restore.S \
+ save-restore.vis ../../../libgcc/config/riscv/riscv-asm.h
+save-restore.vis:
+../../../libgcc/config/riscv/riscv-asm.h:

@@ -1,0 +1,2 @@
+/home/premjith/Desktop/gc2025/TRISUL32_BUILDROOT/hello-driver/hello.o
+

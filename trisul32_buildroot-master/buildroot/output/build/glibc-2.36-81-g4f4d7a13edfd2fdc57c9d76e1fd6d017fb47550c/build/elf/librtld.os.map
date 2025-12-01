@@ -1,0 +1,1391 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-check_fds.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__libc_check_standard_fds)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-errno.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (rtld_errno)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-closedir.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__closedir)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-rewinddir.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__rewinddir)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-readdir64.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__readdir64)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-fdopendir.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__fdopendir)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-getdents64.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-readdir64.os) (__getdents64)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (_dl_addr_inside_object)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-profil.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__profil)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-prof-freq.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__profile_frequency)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-stat64.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__GI___stat64)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-fstat64.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__GI___fstat64)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-lstat64.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__GI___lstat64)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-fstatat64.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__GI___fstatat64)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-openat64.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__openat64)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-lseek64.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__lseek)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-access.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__access)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__GI___close_nocancel)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__GI___fcntl64_nocancel)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__GI___open64_nocancel)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__GI___read_nocancel)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__GI___pread64_nocancel)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__GI___write_nocancel)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__libc_scratch_buffer_set_array_size)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-mmap64.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__mmap)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-munmap.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__munmap)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-mprotect.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__mprotect)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-makedev.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-check_fds.os) (__gnu_dev_makedev)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-atomic_wide_counter.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__atomic_wide_counter_fetch_add_relaxed)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__lll_lock_wait_private)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-uname.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__uname)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-_exit.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__GI__exit)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-getpid.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__getpid)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-environ.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__environ)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-setjmp.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__sigsetjmp)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-__longjmp.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__longjmp)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-sigaction.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-profil.os) (__sigaction)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-sigaction.os) (__libc_sigaction)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-memchr.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (memchr)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-memcmp.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (memcmp)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-memcpy.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (memcpy)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-memmove.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (memmove)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-memset.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (memset)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-rawmemchr.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (rawmemchr)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-stpcpy.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__stpcpy)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strchr.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (strchr)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strcmp.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (strcmp)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strcpy.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (strcpy)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strcspn.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (strcspn)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strdup.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__strdup)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (strerrorname_np)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strlen.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (strlen)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strncmp.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (strncmp)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strnlen.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (strnlen)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-wordcopy.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-memcpy.os) (_wordcopy_fwd_aligned)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strchrnul.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strcspn.os) (__strchrnul)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-setitimer.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-profil.os) (__setitimer)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-errname.os)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strerrorname_np.os) (__get_errname)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_lshrdi3.o)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__lshrdi3)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_ashldi3.o)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__ashldi3)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_udivdi3.o)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__udivdi3)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_umoddi3.o)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os (__umoddi3)
+/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_clz.o)
+                              /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_udivdi3.o) (__clz_tab)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+START GROUP
+LOAD /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os
+LOAD /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a
+LOAD /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a
+END GROUP
+
+.interp
+ *(.interp)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash
+ *(.hash)
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rela.init
+ *(.rela.init)
+
+.rela.text
+ *(.rela.text)
+
+.rela.fini
+ *(.rela.fini)
+
+.rela.rodata
+ *(.rela.rodata)
+
+.rela.data.rel.ro
+ *(.rela.data.rel.ro)
+
+.rela.data
+ *(.rela.data)
+
+.rela.tdata
+ *(.rela.tdata)
+
+.rela.tbss
+ *(.rela.tbss)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rela.got
+ *(.rela.got)
+
+.rela.sdata
+ *(.rela.sdata)
+
+.rela.sbss
+ *(.rela.sbss)
+
+.rela.sdata2
+ *(.rela.sdata2)
+
+.rela.sbss2
+ *(.rela.sbss2)
+
+.rela.bss
+ *(.rela.bss)
+
+.rela.ifunc
+ *(.rela.ifunc)
+
+.rela.plt
+ *(.rela.plt)
+
+.init
+ *(SORT_NONE(.init))
+
+.plt
+ *(.plt)
+
+.text           0x0000000000000000    0x195ec
+ *(.text .stub)
+ .text          0x0000000000000000    0x16b8c /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os
+                0x0000000000000000                _dl_call_libc_early_init
+                0x0000000000000270                _dl_close_worker
+                0x0000000000000e08                _dl_close
+                0x0000000000000ea8                _dl_debug_state
+                0x0000000000000ea8                __GI__dl_debug_state
+                0x0000000000000eac                _dl_debug_update
+                0x0000000000000f00                _dl_debug_initialize
+                0x0000000000001074                _dl_map_object_deps
+                0x0000000000001be4                _dl_error_free
+                0x0000000000001c00                _dl_exception_create
+                0x0000000000001c00                __GI__dl_exception_create
+                0x0000000000001d08                __GI__dl_exception_create_format
+                0x0000000000001d08                _dl_exception_create_format
+                0x0000000000002034                _dl_exception_free
+                0x0000000000002034                __GI__dl_exception_free
+                0x0000000000002070                __GI___nptl_change_stack_perm
+                0x0000000000002070                __nptl_change_stack_perm
+                0x00000000000020b0                _dl_make_stacks_executable
+                0x0000000000002520                __GI__dl_find_object
+                0x0000000000002520                _dl_find_object
+                0x00000000000027cc                _dlfo_sort_mappings
+                0x00000000000028bc                _dl_find_object_init
+                0x0000000000002a30                _dl_find_object_update
+                0x0000000000002ebc                _dl_find_object_dlclose
+                0x0000000000002f4c                _dl_find_object_freeres
+                0x0000000000002fe0                _dl_fini
+                0x0000000000003478                _dl_init
+                0x00000000000042fc                _dl_dst_count
+                0x00000000000043c0                _dl_dst_substitute
+                0x0000000000004c0c                _dl_init_paths
+                0x0000000000004fdc                _dl_process_pt_gnu_property
+                0x00000000000062c0                _dl_map_object
+                0x0000000000006b4c                _dl_rtld_di_serinfo
+                0x00000000000076b0                _dl_lookup_symbol_x
+                0x0000000000008010                _dl_lookup_direct
+                0x00000000000081ac                __minimal_malloc
+                0x00000000000082b4                __minimal_calloc
+                0x00000000000082e8                __minimal_free
+                0x0000000000008334                __minimal_realloc
+                0x00000000000083dc                _dl_sysdep_read_whole_file
+                0x0000000000008484                _dl_name_match_p
+                0x00000000000084f4                _dl_higher_prime_number
+                0x0000000000008540                _dl_strtoul
+                0x0000000000008738                _dl_add_to_namespace_list
+                0x00000000000087fc                _dl_new_object
+                0x000000000000904c                __GI__dl_find_dso_for_object
+                0x000000000000904c                _dl_find_dso_for_object
+                0x0000000000009124                _dl_open
+                0x00000000000093fc                _dl_show_scope
+                0x0000000000009d94                _dl_get_origin
+                0x000000000000a358                _dl_debug_printf
+                0x000000000000a3a8                _dl_debug_printf_c
+                0x000000000000a3f8                _dl_dprintf
+                0x000000000000a43c                _dl_printf
+                0x000000000000a488                _dl_error_printf
+                0x000000000000a4d4                _dl_fatal_printf
+                0x000000000000a4d4                __GI__dl_fatal_printf
+                0x000000000000a520                _dl_start_profile
+                0x000000000000ab30                __GI__dl_mcount
+                0x000000000000ab30                _dl_mcount
+                0x000000000000ad10                _dl_try_allocate_static_tls
+                0x000000000000ae10                _dl_allocate_static_tls
+                0x000000000000ae68                _dl_protect_relro
+                0x000000000000aee8                _dl_reloc_bad_type
+                0x000000000000af6c                _dl_relocate_object
+                0x000000000000beb0                _dl_fixup
+                0x000000000000c140                _dl_profile_fixup
+                0x000000000000c474                _dl_scope_free
+                0x000000000000c574                _dl_setup_hash
+                0x000000000000c734                _dl_sort_maps_init
+                0x000000000000c770                _dl_sort_maps
+                0x000000000000cb70                __thread_gscope_wait
+                0x000000000000d024                _dl_tls_static_surplus_init
+                0x000000000000d0dc                _dl_assign_tls_modid
+                0x000000000000d1f0                _dl_count_modids
+                0x000000000000d248                _dl_determine_tlsoffset
+                0x000000000000d3c8                _dl_get_tls_static_info
+                0x000000000000d3e4                _dl_allocate_tls_storage
+                0x000000000000d490                __GI__dl_allocate_tls_init
+                0x000000000000d490                _dl_allocate_tls_init
+                0x000000000000d6d4                __GI__dl_allocate_tls
+                0x000000000000d6d4                _dl_allocate_tls
+                0x000000000000d708                _dl_deallocate_tls
+                0x000000000000d708                __GI__dl_deallocate_tls
+                0x000000000000d7d8                _dl_update_slotinfo
+                0x000000000000da20                __GI___tls_get_addr
+                0x000000000000da20                __tls_get_addr
+                0x000000000000da78                _dl_tls_get_addr_soft
+                0x000000000000daec                _dl_add_to_slotinfo
+                0x000000000000dc18                _dl_init_static_tls
+                0x000000000000dd74                __tls_pre_init_tp
+                0x000000000000ddc8                __tls_init_tp
+                0x000000000000de84                _dl_runtime_resolve
+                0x000000000000def4                _dl_check_map_versions
+                0x000000000000e6a0                _dl_check_all_versions
+                0x000000000000e72c                _dl_write
+                0x000000000000e738                _dl_cache_libcmp
+                0x000000000000ed38                _dl_load_cache_lookup
+                0x000000000000f01c                _dl_unload_cache
+                0x000000000000f22c                __GI___tunable_set_val
+                0x000000000000f248                __GI___tunables_init
+                0x000000000000f658                __GI___tunables_print
+                0x000000000000f784                __tunable_get_val
+                0x000000000000f784                __GI___tunable_get_val
+                0x000000000000f844                _dl_audit_activity_map
+                0x000000000000f8d4                _dl_audit_activity_nsid
+                0x000000000000f914                _dl_audit_objsearch
+                0x000000000000f9d8                _dl_audit_objopen
+                0x000000000000faac                _dl_audit_objclose
+                0x000000000000fb58                _dl_audit_preinit
+                0x000000000000fbdc                _dl_audit_symbind_alt
+                0x000000000000fbdc                __GI__dl_audit_symbind_alt
+                0x000000000000fd74                _dl_audit_symbind
+                0x000000000000ffa0                _dl_audit_pltenter
+                0x00000000000101e0                _dl_audit_pltexit
+                0x000000000001046c                _dl_diagnostics_print_string
+                0x00000000000104cc                _dl_diagnostics_print_labeled_string
+                0x0000000000010514                _dl_diagnostics_print_labeled_value
+                0x0000000000010548                _dl_print_diagnostics
+                0x00000000000108ec                _dl_diagnostics_cpu
+                0x00000000000109d4                _dl_diagnostics_kernel
+                0x0000000000010ab4                _dl_next_ld_env_entry
+                0x0000000000010afc                unsetenv
+                0x0000000000010c1c                _dl_signal_exception
+                0x0000000000010c74                _dl_signal_error
+                0x0000000000010cd4                _dl_signal_cexception
+                0x0000000000010d7c                _dl_signal_cerror
+                0x0000000000010e18                _dl_catch_exception
+                0x0000000000010ee0                _dl_catch_error
+                0x0000000000010f4c                _dl_receive_error
+                0x0000000000010fa0                _rtld_catch_error
+                0x00000000000110e8                _dl_important_hwcaps
+                0x00000000000118c4                _dl_hwcaps_subdirs_active
+                0x00000000000118cc                _dl_hwcaps_split
+                0x0000000000011958                _dl_hwcaps_contains
+                0x00000000000119d8                _dl_hwcaps_split_masked
+                0x0000000000011a34                __rtld_libc_freeres
+                0x0000000000011a3c                __rtld_malloc_init_stubs
+                0x0000000000011a78                __sigjmp_save
+                0x0000000000011a84                __GI___libc_fatal
+                0x0000000000011a84                __libc_fatal
+                0x0000000000011aa0                __GI___chk_fail
+                0x0000000000011aa0                __chk_fail
+                0x0000000000011ab4                __GI___assert_fail
+                0x0000000000011ab4                __assert_fail
+                0x0000000000011ae8                __rtld_malloc_is_complete
+                0x0000000000011c40                __rtld_malloc_init_real
+                0x0000000000011d58                _itoa
+                0x0000000000011e40                __strerror_r
+                0x0000000000011f0c                __GI___assert_perror_fail
+                0x0000000000011f0c                __assert_perror_fail
+                0x0000000000011f78                __strsep
+                0x0000000000011f78                strsep
+                0x0000000000011f78                __strsep_g
+                0x0000000000011ffc                __rtld_mutex_init
+                0x0000000000012138                _dl_sysdep_start
+                0x000000000001232c                _dl_sysdep_start_cleanup
+                0x0000000000012330                _dl_show_auxv
+                0x0000000000012618                _dl_usage
+                0x000000000001267c                _dl_version
+                0x00000000000126a0                _dl_help
+                0x0000000000012994                _start
+                0x000000000001299c                _dl_start_user
+                0x00000000000139dc                handle_preload_list
+                0x0000000000016378                __brk
+                0x0000000000016378                brk
+                0x00000000000163ac                sbrk
+                0x00000000000163ac                __sbrk
+                0x0000000000016440                __getcwd
+                0x0000000000016440                getcwd
+                0x000000000001696c                openat64
+                0x00000000000169f4                __alloc_dir
+                0x0000000000016ac4                __opendir
+                0x0000000000016ac4                opendir
+ .text          0x0000000000016b8c      0x13c /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-check_fds.os)
+                0x0000000000016c84                __libc_check_standard_fds
+ .text          0x0000000000016cc8        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-errno.os)
+ .text          0x0000000000016cc8       0x4c /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-closedir.os)
+                0x0000000000016cc8                __closedir
+                0x0000000000016cc8                closedir
+ .text          0x0000000000016d14       0x54 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-rewinddir.os)
+                0x0000000000016d14                rewinddir
+                0x0000000000016d14                __rewinddir
+ .text          0x0000000000016d68       0xcc /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-readdir64.os)
+                0x0000000000016d68                readdir
+                0x0000000000016d68                __readdir64
+                0x0000000000016d68                __readdir
+                0x0000000000016d68                readdir64
+ .text          0x0000000000016e34       0xac /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-fdopendir.os)
+                0x0000000000016e34                fdopendir
+                0x0000000000016e34                __fdopendir
+ .text          0x0000000000016ee0       0x34 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-getdents64.os)
+                0x0000000000016ee0                __getdents
+                0x0000000000016ee0                getdents64
+                0x0000000000016ee0                __getdents64
+ .text          0x0000000000016f14       0x50 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+                0x0000000000016f14                _dl_addr_inside_object
+ .text          0x0000000000016f64      0x124 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-profil.os)
+                0x0000000000016fb8                __profil
+                0x0000000000016fb8                profil
+ .text          0x0000000000017088        0xc /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-prof-freq.os)
+                0x0000000000017088                __profile_frequency
+ .text          0x0000000000017094       0x18 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-stat64.os)
+                0x0000000000017094                stat64
+                0x0000000000017094                __stat
+                0x0000000000017094                __stat64
+                0x0000000000017094                stat
+                0x0000000000017094                __GI___stat64
+ .text          0x00000000000170ac       0x30 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-fstat64.os)
+                0x00000000000170ac                __GI___fstat64
+                0x00000000000170ac                fstat64
+                0x00000000000170ac                fstat
+                0x00000000000170ac                __fstat64
+                0x00000000000170ac                __fstat
+ .text          0x00000000000170dc       0x18 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-lstat64.os)
+                0x00000000000170dc                __lstat64
+                0x00000000000170dc                lstat
+                0x00000000000170dc                lstat64
+                0x00000000000170dc                __GI___lstat64
+                0x00000000000170dc                __lstat
+ .text          0x00000000000170f4      0x20c /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-fstatat64.os)
+                0x00000000000170f4                fstatat
+                0x00000000000170f4                __fstatat
+                0x00000000000170f4                fstatat64
+                0x00000000000170f4                __fstatat64
+                0x00000000000170f4                __GI___fstatat
+                0x00000000000170f4                __GI___fstatat64
+ .text          0x0000000000017300       0x6c /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-openat64.os)
+                0x0000000000017300                __openat64
+                0x0000000000017300                __libc_openat64
+                0x0000000000017300                __openat
+                0x0000000000017300                openat
+ .text          0x000000000001736c       0x54 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-lseek64.os)
+                0x000000000001736c                __lseek64
+                0x000000000001736c                lseek
+                0x000000000001736c                __libc_lseek64
+                0x000000000001736c                __lseek
+                0x000000000001736c                __libc_lseek
+                0x000000000001736c                lseek64
+ .text          0x00000000000173c0       0x34 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-access.os)
+                0x00000000000173c0                access
+                0x00000000000173c0                __access
+ .text          0x00000000000173f4       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+                0x00000000000173f4                __GI___close_nocancel
+ .text          0x0000000000017418       0xb8 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+                0x0000000000017418                __fcntl64_nocancel_adjusted
+                0x0000000000017494                __fcntl64_nocancel
+                0x0000000000017494                __GI___fcntl64_nocancel
+ .text          0x00000000000174d0       0x7c /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+                0x00000000000174d0                __GI___open_nocancel
+                0x00000000000174d0                __open_nocancel
+                0x00000000000174d0                __GI___open64_nocancel
+                0x00000000000174d0                __open64_nocancel
+ .text          0x000000000001754c       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+                0x000000000001754c                __read_nocancel
+                0x000000000001754c                __GI___read_nocancel
+ .text          0x0000000000017570       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+                0x0000000000017570                __GI___pread64_nocancel
+                0x0000000000017570                __pread64_nocancel
+ .text          0x0000000000017594       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+                0x0000000000017594                __GI___write_nocancel
+                0x0000000000017594                __write_nocancel
+ .text          0x00000000000175b8       0xe4 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+                0x00000000000175d8                __libc_scratch_buffer_set_array_size
+ .text          0x000000000001769c       0x48 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-mmap64.os)
+                0x000000000001769c                __mmap
+                0x000000000001769c                mmap
+                0x000000000001769c                __mmap64
+                0x000000000001769c                mmap64
+ .text          0x00000000000176e4       0x2c /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-munmap.os)
+                0x00000000000176e4                munmap
+                0x00000000000176e4                __GI___munmap
+                0x00000000000176e4                __GI_munmap
+                0x00000000000176e4                __munmap
+ .text          0x0000000000017710       0x2c /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-mprotect.os)
+                0x0000000000017710                __mprotect
+                0x0000000000017710                __GI___mprotect
+                0x0000000000017710                __GI_mprotect
+                0x0000000000017710                mprotect
+ .text          0x000000000001773c       0x70 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-makedev.os)
+                0x000000000001773c                gnu_dev_major
+                0x000000000001773c                __gnu_dev_major
+                0x0000000000017754                gnu_dev_minor
+                0x0000000000017754                __gnu_dev_minor
+                0x0000000000017770                gnu_dev_makedev
+                0x0000000000017770                __gnu_dev_makedev
+ .text          0x00000000000177ac       0x98 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-atomic_wide_counter.os)
+                0x00000000000177ac                __atomic_wide_counter_fetch_add_relaxed
+                0x0000000000017800                __atomic_wide_counter_load_relaxed
+ .text          0x0000000000017844      0x104 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+                0x0000000000017844                __lll_lock_wait_private
+                0x00000000000178ac                __lll_lock_wait
+                0x0000000000017918                __lll_lock_wake_private
+                0x0000000000017930                __lll_lock_wake
+ .text          0x0000000000017948       0x2c /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-uname.os)
+                0x0000000000017948                uname
+                0x0000000000017948                __GI_uname
+                0x0000000000017948                __uname
+                0x0000000000017948                __GI___uname
+ .text          0x0000000000017974       0x44 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-_exit.os)
+                0x0000000000017974                _Exit
+                0x0000000000017974                __GI__exit
+                0x0000000000017974                _exit
+ .text          0x00000000000179b8        0xc /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-getpid.os)
+                0x00000000000179b8                __getpid
+                0x00000000000179b8                getpid
+                0x00000000000179b8                __GI_getpid
+                0x00000000000179b8                __GI___getpid
+ .text          0x00000000000179c4        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-environ.os)
+ .text          0x00000000000179c4       0x4c /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-setjmp.os)
+                0x00000000000179c4                __GI__setjmp
+                0x00000000000179c4                _setjmp
+                0x00000000000179cc                setjmp
+                0x00000000000179d0                __sigsetjmp
+                0x00000000000179d0                __GI___sigsetjmp
+ .text          0x0000000000017a10       0x44 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-__longjmp.os)
+                0x0000000000017a10                __longjmp
+ .text          0x0000000000017a54       0x34 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-sigaction.os)
+                0x0000000000017a54                sigaction
+                0x0000000000017a54                __sigaction
+ .text          0x0000000000017a88       0xd4 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+                0x0000000000017a88                __libc_sigaction
+ .text          0x0000000000017b5c       0x98 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-memchr.os)
+                0x0000000000017b5c                memchr
+                0x0000000000017b5c                __memchr
+ .text          0x0000000000017bf4      0x2dc /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-memcmp.os)
+                0x0000000000017c28                bcmp
+                0x0000000000017c28                __memcmpeq
+                0x0000000000017c28                memcmp
+ .text          0x0000000000017ed0       0xdc /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-memcpy.os)
+                0x0000000000017ed0                memcpy
+ .text          0x0000000000017fac      0x16c /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-memmove.os)
+                0x0000000000017fac                memmove
+ .text          0x0000000000018118       0xac /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-memset.os)
+                0x0000000000018118                memset
+ .text          0x00000000000181c4       0x3c /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-rawmemchr.os)
+                0x00000000000181c4                __rawmemchr
+                0x00000000000181c4                rawmemchr
+ .text          0x0000000000018200       0x54 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-stpcpy.os)
+                0x0000000000018200                stpcpy
+                0x0000000000018200                __stpcpy
+ .text          0x0000000000018254       0xc0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strchr.os)
+                0x0000000000018254                index
+                0x0000000000018254                strchr
+ .text          0x0000000000018314       0x28 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strcmp.os)
+                0x0000000000018314                strcmp
+ .text          0x000000000001833c       0x40 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strcpy.os)
+                0x000000000001833c                strcpy
+ .text          0x000000000001837c      0x178 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strcspn.os)
+                0x000000000001837c                strcspn
+ .text          0x00000000000184f4       0x54 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strdup.os)
+                0x00000000000184f4                __strdup
+                0x00000000000184f4                strdup
+ .text          0x0000000000018548        0x8 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+                0x0000000000018548                strerrorname_np
+ .text          0x0000000000018550       0xa0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strlen.os)
+                0x0000000000018550                strlen
+ .text          0x00000000000185f0       0x9c /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strncmp.os)
+                0x00000000000185f0                strncmp
+ .text          0x000000000001868c       0xbc /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strnlen.os)
+                0x000000000001868c                __strnlen
+                0x000000000001868c                strnlen
+ .text          0x0000000000018748      0x454 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-wordcopy.os)
+                0x0000000000018748                _wordcopy_fwd_aligned
+                0x0000000000018868                _wordcopy_fwd_dest_aligned
+                0x0000000000018970                _wordcopy_bwd_aligned
+                0x0000000000018a94                _wordcopy_bwd_dest_aligned
+ .text          0x0000000000018b9c       0xb0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strchrnul.os)
+                0x0000000000018b9c                __strchrnul
+                0x0000000000018b9c                strchrnul
+ .text          0x0000000000018c4c       0xdc /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-setitimer.os)
+                0x0000000000018c4c                setitimer
+                0x0000000000018c4c                __setitimer
+ .text          0x0000000000018d28       0x40 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-errname.os)
+                0x0000000000018d28                __get_errname
+ .text          0x0000000000018d68       0x38 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_lshrdi3.o)
+                0x0000000000018d68                __lshrdi3
+ .text          0x0000000000018da0       0x38 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_ashldi3.o)
+                0x0000000000018da0                __ashldi3
+ .text          0x0000000000018dd8      0x430 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_udivdi3.o)
+                0x0000000000018dd8                __udivdi3
+ .text          0x0000000000019208      0x3e4 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_umoddi3.o)
+                0x0000000000019208                __umoddi3
+ .text          0x00000000000195ec        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_clz.o)
+ *(.gnu.warning)
+
+.text.compat    0x0000000000000000        0x4
+ .text.compat   0x0000000000000000        0x4 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os
+                0x0000000000000000                __rtld_version_placeholder_1
+                0x0000000000000000                __rtld_version_placeholder@GLIBC_2.34
+
+.fini
+ *(SORT_NONE(.fini))
+
+.rodata         0x0000000000000000     0x1234
+ *(.rodata)
+ .rodata        0x0000000000000000      0xb96 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os
+ *fill*         0x0000000000000b96        0x2 
+ .rodata        0x0000000000000b98       0x38 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-wordcopy.os)
+ .rodata        0x0000000000000bd0      0x561 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-errname.os)
+ *fill*         0x0000000000001131        0x3 
+ .rodata        0x0000000000001134      0x100 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_clz.o)
+                0x0000000000001134                __clz_tab
+
+.rodata.str1.4  0x0000000000000000     0x42cf
+ .rodata.str1.4
+                0x0000000000000000     0x4279 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os
+                0x000000000000277c                _dl_hwcaps_subdirs
+                0x0000000000002990                __GI__itoa_lower_digits
+                0x0000000000002990                _itoa_lower_digits
+ *fill*         0x0000000000004279        0x3 
+ .rodata.str1.4
+                0x000000000000427c       0x16 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-check_fds.os)
+ *fill*         0x0000000000004292        0x2 
+ .rodata.str1.4
+                0x0000000000004294        0x1 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-fstat64.os)
+ *fill*         0x0000000000004295        0x3 
+ .rodata.str1.4
+                0x0000000000004298       0x37 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+
+.rodata.cst4    0x0000000000000000        0x8
+ .rodata.cst4   0x0000000000000000        0x8 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os
+                0x0000000000000004                __rseq_flags
+
+.rodata1
+ *(.rodata1)
+
+.sdata2
+ *(.sdata2)
+
+.sbss2
+ *(.sbss2)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame       0x0000000000000000      0x38c
+ *(.eh_frame)
+ .eh_frame      0x0000000000000000      0x224 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os
+ .eh_frame      0x0000000000000224       0x28 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-munmap.os)
+ .eh_frame      0x000000000000024c       0x28 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .eh_frame      0x0000000000000274       0x28 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-uname.os)
+ .eh_frame      0x000000000000029c       0x28 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-getpid.os)
+ .eh_frame      0x00000000000002c4       0x50 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .eh_frame      0x0000000000000314       0x28 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .eh_frame      0x000000000000033c       0x28 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_udivdi3.o)
+ .eh_frame      0x0000000000000364       0x28 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_umoddi3.o)
+
+.gcc_except_table
+ *(.gcc_except_table)
+
+.gnu_extab
+ *(.gnu_extab*)
+
+.exception_ranges
+ *(.exception_ranges)
+
+.eh_frame
+ *(.eh_frame)
+
+.gnu_extab
+ *(.gnu_extab)
+
+.gcc_except_table
+ *(.gcc_except_table)
+
+.exception_ranges
+ *(.exception_ranges)
+
+.tdata
+ *(.tdata)
+
+.tbss
+ *(.tbss)
+
+.jcr
+ *(.jcr)
+
+.dynamic
+ *(.dynamic)
+
+.data           0x0000000000000000        0x0
+ *(.data)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-errno.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-closedir.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-profil.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-stat64.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-openat64.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-access.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-munmap.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-makedev.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-atomic_wide_counter.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-uname.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-_exit.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-getpid.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-environ.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-memchr.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-memcmp.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-memcpy.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-memmove.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-memset.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-rawmemchr.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strchr.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strcmp.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strcpy.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strdup.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strlen.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strncmp.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strnlen.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-wordcopy.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strchrnul.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-errname.os)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_lshrdi3.o)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_ashldi3.o)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_udivdi3.o)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_umoddi3.o)
+ .data          0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_clz.o)
+
+.data.rel.ro    0x0000000000000000      0xd08
+ .data.rel.ro   0x0000000000000000      0xd08 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os
+                0x0000000000000028                __rtld_search_dirs
+                0x0000000000000030                __rtld_env_path_list
+                0x0000000000000038                __stack_prot
+                0x000000000000003c                __rseq_offset
+                0x0000000000000040                __rseq_size
+                0x0000000000000c18                __rtld_calloc
+                0x0000000000000c1c                __rtld_free
+                0x0000000000000c20                __rtld_malloc
+                0x0000000000000c24                __rtld_realloc
+                0x0000000000000c28                ___rtld_mutex_lock
+                0x0000000000000c2c                ___rtld_mutex_unlock
+                0x0000000000000c30                __libc_stack_end
+                0x0000000000000c30                __GI___libc_stack_end
+                0x0000000000000c34                __GI___libc_enable_secure
+                0x0000000000000c34                __libc_enable_secure
+                0x0000000000000c38                _dl_random
+                0x0000000000000c40                __GI__dl_argv
+                0x0000000000000c40                _dl_argv
+                0x0000000000000c44                _dl_argc
+                0x0000000000000c48                __pointer_chk_guard
+                0x0000000000000c48                __pointer_chk_guard_local
+                0x0000000000000c4c                __stack_chk_guard
+                0x0000000000000c50                _rtld_global_ro
+                0x0000000000000c50                _rtld_local_ro
+
+.data.rel.ro.local
+                0x0000000000000000       0x10
+ .data.rel.ro.local
+                0x0000000000000000       0x10 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os
+
+.data1
+ *(.data1)
+
+.got
+ *(.got)
+
+.sdata          0x0000000000000000      0x9c8
+ *(.sdata)
+ .sdata         0x0000000000000000      0x9c8 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os
+                0x0000000000000000                _rtld_global
+                0x0000000000000000                _rtld_local
+
+.sbss
+ *(.sbss)
+
+.bss            0x0000000000000000       0xe0
+ *(.bss)
+ .bss           0x0000000000000000       0xc8 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os
+                0x0000000000000004                _r_debug_extended
+                0x0000000000000004                _r_debug
+                0x000000000000006c                __nptl_initial_report_events
+                0x000000000000006c                __GI___nptl_initial_report_events
+                0x0000000000000094                _dl_hwcaps_priorities
+                0x0000000000000098                _dl_hwcaps_priorities_length
+                0x00000000000000c4                ___brk_addr
+                0x00000000000000c4                __curbrk
+ .bss           0x00000000000000c8        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .bss           0x00000000000000c8        0x4 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-errno.os)
+                0x00000000000000c8                rtld_errno
+ .bss           0x00000000000000cc        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-closedir.os)
+ .bss           0x00000000000000cc        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .bss           0x00000000000000cc        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .bss           0x00000000000000cc        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .bss           0x00000000000000cc        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .bss           0x00000000000000cc        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .bss           0x00000000000000cc       0x10 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-profil.os)
+ .bss           0x00000000000000dc        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .bss           0x00000000000000dc        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-stat64.os)
+ .bss           0x00000000000000dc        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .bss           0x00000000000000dc        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .bss           0x00000000000000dc        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .bss           0x00000000000000dc        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-openat64.os)
+ .bss           0x00000000000000dc        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .bss           0x00000000000000dc        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-access.os)
+ .bss           0x00000000000000dc        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .bss           0x00000000000000dc        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .bss           0x00000000000000dc        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .bss           0x00000000000000dc        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .bss           0x00000000000000dc        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .bss           0x00000000000000dc        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .bss           0x00000000000000dc        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .bss           0x00000000000000dc        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .bss           0x00000000000000dc        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-munmap.os)
+ .bss           0x00000000000000dc        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .bss           0x00000000000000dc        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-makedev.os)
+ .bss           0x00000000000000dc        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-atomic_wide_counter.os)
+ .bss           0x00000000000000dc        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .bss           0x00000000000000dc        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-uname.os)
+ .bss           0x00000000000000dc        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-_exit.os)
+ .bss           0x00000000000000dc        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-getpid.os)
+ .bss           0x00000000000000dc        0x4 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-environ.os)
+                0x00000000000000dc                _environ
+                0x00000000000000dc                __environ
+                0x00000000000000dc                environ
+ .bss           0x00000000000000e0        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .bss           0x00000000000000e0        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .bss           0x00000000000000e0        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .bss           0x00000000000000e0        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .bss           0x00000000000000e0        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-memchr.os)
+ .bss           0x00000000000000e0        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-memcmp.os)
+ .bss           0x00000000000000e0        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-memcpy.os)
+ .bss           0x00000000000000e0        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-memmove.os)
+ .bss           0x00000000000000e0        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-memset.os)
+ .bss           0x00000000000000e0        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-rawmemchr.os)
+ .bss           0x00000000000000e0        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .bss           0x00000000000000e0        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strchr.os)
+ .bss           0x00000000000000e0        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strcmp.os)
+ .bss           0x00000000000000e0        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strcpy.os)
+ .bss           0x00000000000000e0        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .bss           0x00000000000000e0        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strdup.os)
+ .bss           0x00000000000000e0        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .bss           0x00000000000000e0        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strlen.os)
+ .bss           0x00000000000000e0        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strncmp.os)
+ .bss           0x00000000000000e0        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strnlen.os)
+ .bss           0x00000000000000e0        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-wordcopy.os)
+ .bss           0x00000000000000e0        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strchrnul.os)
+ .bss           0x00000000000000e0        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .bss           0x00000000000000e0        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-errname.os)
+ .bss           0x00000000000000e0        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_lshrdi3.o)
+ .bss           0x00000000000000e0        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_ashldi3.o)
+ .bss           0x00000000000000e0        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_udivdi3.o)
+ .bss           0x00000000000000e0        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_umoddi3.o)
+ .bss           0x00000000000000e0        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_clz.o)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000      0xee7
+ *(.comment)
+ .comment       0x0000000000000000      0x71c /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os
+ .comment       0x000000000000071c       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .comment       0x000000000000073f       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-errno.os)
+ .comment       0x0000000000000762       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-closedir.os)
+ .comment       0x0000000000000785       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .comment       0x00000000000007a8       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .comment       0x00000000000007cb       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .comment       0x00000000000007ee       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .comment       0x0000000000000811       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .comment       0x0000000000000834       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-profil.os)
+ .comment       0x0000000000000857       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .comment       0x000000000000087a       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-stat64.os)
+ .comment       0x000000000000089d       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .comment       0x00000000000008c0       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .comment       0x00000000000008e3       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .comment       0x0000000000000906       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-openat64.os)
+ .comment       0x0000000000000929       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .comment       0x000000000000094c       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-access.os)
+ .comment       0x000000000000096f       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .comment       0x0000000000000992       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .comment       0x00000000000009b5       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .comment       0x00000000000009d8       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .comment       0x00000000000009fb       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .comment       0x0000000000000a1e       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .comment       0x0000000000000a41       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .comment       0x0000000000000a64       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .comment       0x0000000000000a87       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-makedev.os)
+ .comment       0x0000000000000aaa       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-atomic_wide_counter.os)
+ .comment       0x0000000000000acd       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .comment       0x0000000000000af0       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-_exit.os)
+ .comment       0x0000000000000b13       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-environ.os)
+ .comment       0x0000000000000b36       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .comment       0x0000000000000b59       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .comment       0x0000000000000b7c       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-memchr.os)
+ .comment       0x0000000000000b9f       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-memcmp.os)
+ .comment       0x0000000000000bc2       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-memcpy.os)
+ .comment       0x0000000000000be5       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-memmove.os)
+ .comment       0x0000000000000c08       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-memset.os)
+ .comment       0x0000000000000c2b       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-rawmemchr.os)
+ .comment       0x0000000000000c4e       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .comment       0x0000000000000c71       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strchr.os)
+ .comment       0x0000000000000c94       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strcmp.os)
+ .comment       0x0000000000000cb7       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strcpy.os)
+ .comment       0x0000000000000cda       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .comment       0x0000000000000cfd       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strdup.os)
+ .comment       0x0000000000000d20       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .comment       0x0000000000000d43       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strlen.os)
+ .comment       0x0000000000000d66       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strncmp.os)
+ .comment       0x0000000000000d89       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strnlen.os)
+ .comment       0x0000000000000dac       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-wordcopy.os)
+ .comment       0x0000000000000dcf       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strchrnul.os)
+ .comment       0x0000000000000df2       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .comment       0x0000000000000e15       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-errname.os)
+ .comment       0x0000000000000e38       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_lshrdi3.o)
+ .comment       0x0000000000000e5b       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_ashldi3.o)
+ .comment       0x0000000000000e7e       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_udivdi3.o)
+ .comment       0x0000000000000ea1       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_umoddi3.o)
+ .comment       0x0000000000000ec4       0x23 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_clz.o)
+
+.note.GNU-stack
+                0x0000000000000000        0x0
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-errno.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-closedir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-profil.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-stat64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-openat64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-access.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-munmap.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-makedev.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-atomic_wide_counter.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-uname.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-_exit.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-getpid.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-environ.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-memchr.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-memcmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-memcpy.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-memmove.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-memset.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-rawmemchr.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strchr.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strcmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strcpy.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strdup.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strlen.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strncmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strnlen.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-wordcopy.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strchrnul.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-errname.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_lshrdi3.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_ashldi3.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_udivdi3.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_umoddi3.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_clz.o)
+
+.riscv.attributes
+                0x0000000000000000       0x24
+ .riscv.attributes
+                0x0000000000000000       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/dl-allobjs.os
+ .riscv.attributes
+                0x0000000000000024       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .riscv.attributes
+                0x0000000000000048       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-errno.os)
+ .riscv.attributes
+                0x000000000000006c       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-closedir.os)
+ .riscv.attributes
+                0x0000000000000090       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .riscv.attributes
+                0x00000000000000b4       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .riscv.attributes
+                0x00000000000000d8       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .riscv.attributes
+                0x00000000000000fc       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .riscv.attributes
+                0x0000000000000120       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .riscv.attributes
+                0x0000000000000144       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-profil.os)
+ .riscv.attributes
+                0x0000000000000168       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .riscv.attributes
+                0x000000000000018c       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-stat64.os)
+ .riscv.attributes
+                0x00000000000001b0       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .riscv.attributes
+                0x00000000000001d4       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .riscv.attributes
+                0x00000000000001f8       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .riscv.attributes
+                0x000000000000021c       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-openat64.os)
+ .riscv.attributes
+                0x0000000000000240       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .riscv.attributes
+                0x0000000000000264       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-access.os)
+ .riscv.attributes
+                0x0000000000000288       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .riscv.attributes
+                0x00000000000002ac       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .riscv.attributes
+                0x00000000000002d0       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .riscv.attributes
+                0x00000000000002f4       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .riscv.attributes
+                0x0000000000000318       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .riscv.attributes
+                0x000000000000033c       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .riscv.attributes
+                0x0000000000000360       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .riscv.attributes
+                0x0000000000000384       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .riscv.attributes
+                0x00000000000003a8       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-munmap.os)
+ .riscv.attributes
+                0x00000000000003cc       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .riscv.attributes
+                0x00000000000003f0       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-makedev.os)
+ .riscv.attributes
+                0x0000000000000414       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-atomic_wide_counter.os)
+ .riscv.attributes
+                0x0000000000000438       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .riscv.attributes
+                0x000000000000045c       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-uname.os)
+ .riscv.attributes
+                0x0000000000000480       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-_exit.os)
+ .riscv.attributes
+                0x00000000000004a4       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-getpid.os)
+ .riscv.attributes
+                0x00000000000004c8       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-environ.os)
+ .riscv.attributes
+                0x00000000000004ec       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .riscv.attributes
+                0x0000000000000510       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .riscv.attributes
+                0x0000000000000534       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .riscv.attributes
+                0x0000000000000558       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .riscv.attributes
+                0x000000000000057c       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-memchr.os)
+ .riscv.attributes
+                0x00000000000005a0       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-memcmp.os)
+ .riscv.attributes
+                0x00000000000005c4       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-memcpy.os)
+ .riscv.attributes
+                0x00000000000005e8       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-memmove.os)
+ .riscv.attributes
+                0x000000000000060c       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-memset.os)
+ .riscv.attributes
+                0x0000000000000630       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-rawmemchr.os)
+ .riscv.attributes
+                0x0000000000000654       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .riscv.attributes
+                0x0000000000000678       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strchr.os)
+ .riscv.attributes
+                0x000000000000069c       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strcmp.os)
+ .riscv.attributes
+                0x00000000000006c0       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strcpy.os)
+ .riscv.attributes
+                0x00000000000006e4       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .riscv.attributes
+                0x0000000000000708       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strdup.os)
+ .riscv.attributes
+                0x000000000000072c       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .riscv.attributes
+                0x0000000000000750       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strlen.os)
+ .riscv.attributes
+                0x0000000000000774       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strncmp.os)
+ .riscv.attributes
+                0x0000000000000798       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strnlen.os)
+ .riscv.attributes
+                0x00000000000007bc       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-wordcopy.os)
+ .riscv.attributes
+                0x00000000000007e0       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-strchrnul.os)
+ .riscv.attributes
+                0x0000000000000804       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .riscv.attributes
+                0x0000000000000828       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/rtld-libc.a(rtld-errname.os)
+ .riscv.attributes
+                0x000000000000084c       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_lshrdi3.o)
+ .riscv.attributes
+                0x0000000000000870       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_ashldi3.o)
+ .riscv.attributes
+                0x0000000000000894       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_udivdi3.o)
+ .riscv.attributes
+                0x00000000000008b8       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_umoddi3.o)
+ .riscv.attributes
+                0x00000000000008dc       0x24 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_clz.o)
+
+.gnu.build.attributes
+ *(.gnu.build.attributes)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000       0x98
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x20 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_lshrdi3.o)
+ .debug_aranges
+                0x0000000000000020       0x20 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_ashldi3.o)
+ .debug_aranges
+                0x0000000000000040       0x20 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_udivdi3.o)
+ .debug_aranges
+                0x0000000000000060       0x20 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_umoddi3.o)
+ .debug_aranges
+                0x0000000000000080       0x18 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_clz.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0x12ea
+ *(.debug_info)
+ .debug_info    0x0000000000000000      0x193 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_lshrdi3.o)
+ .debug_info    0x0000000000000193      0x193 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_ashldi3.o)
+ .debug_info    0x0000000000000326      0x753 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_udivdi3.o)
+ .debug_info    0x0000000000000a79      0x7a7 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_umoddi3.o)
+ .debug_info    0x0000000000001220       0xca /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_clz.o)
+
+.debug_abbrev   0x0000000000000000      0x5e9
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x10c /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_lshrdi3.o)
+ .debug_abbrev  0x000000000000010c      0x10c /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_ashldi3.o)
+ .debug_abbrev  0x0000000000000218      0x1a6 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_udivdi3.o)
+ .debug_abbrev  0x00000000000003be      0x1bb /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_umoddi3.o)
+ .debug_abbrev  0x0000000000000579       0x70 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_clz.o)
+
+.debug_line     0x0000000000000000     0x1115
+ *(.debug_line)
+ .debug_line    0x0000000000000000      0x107 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_lshrdi3.o)
+ .debug_line    0x0000000000000107      0x107 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_ashldi3.o)
+ .debug_line    0x000000000000020e      0x727 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_udivdi3.o)
+ .debug_line    0x0000000000000935      0x7a1 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_umoddi3.o)
+ .debug_line    0x00000000000010d6       0x3f /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_clz.o)
+
+.debug_frame    0x0000000000000000       0x40
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000       0x20 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_lshrdi3.o)
+ .debug_frame   0x0000000000000020       0x20 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_ashldi3.o)
+
+.debug_str      0x0000000000000000      0x8a7
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x198 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_lshrdi3.o)
+ .debug_str     0x0000000000000198      0x198 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_ashldi3.o)
+ .debug_str     0x0000000000000330      0x20e /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_udivdi3.o)
+ .debug_str     0x000000000000053e      0x20e /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_umoddi3.o)
+ .debug_str     0x000000000000074c      0x15b /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_clz.o)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_addr
+ *(.debug_addr)
+
+.debug_line_str
+                0x0000000000000000      0x76c
+ *(.debug_line_str)
+ .debug_line_str
+                0x0000000000000000      0x17c /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_lshrdi3.o)
+ .debug_line_str
+                0x000000000000017c      0x17c /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_ashldi3.o)
+ .debug_line_str
+                0x00000000000002f8      0x17c /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_udivdi3.o)
+ .debug_line_str
+                0x0000000000000474      0x17c /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_umoddi3.o)
+ .debug_line_str
+                0x00000000000005f0      0x17c /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_clz.o)
+
+.debug_loclists
+                0x0000000000000000     0x1451
+ *(.debug_loclists)
+ .debug_loclists
+                0x0000000000000000       0xa7 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_lshrdi3.o)
+ .debug_loclists
+                0x00000000000000a7       0xa7 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_ashldi3.o)
+ .debug_loclists
+                0x000000000000014e      0xa99 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_udivdi3.o)
+ .debug_loclists
+                0x0000000000000be7      0x86a /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_umoddi3.o)
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_names
+ *(.debug_names)
+
+.debug_rnglists
+                0x0000000000000000      0x1e2
+ *(.debug_rnglists)
+ .debug_rnglists
+                0x0000000000000000      0x111 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_udivdi3.o)
+ .debug_rnglists
+                0x0000000000000111       0xd1 /home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/host/lib/gcc/riscv32-buildroot-linux-gnu/11.4.0/libgcc.a(_umoddi3.o)
+
+.debug_str_offsets
+ *(.debug_str_offsets)
+
+.debug_sup
+ *(.debug_sup)
+
+.gnu.attributes
+ *(.gnu.attributes)
+OUTPUT(/home/joelphilip/Documents/C2S/Trisul32/trisul32_buildroot-master/buildroot/output/build/glibc-2.36-81-g4f4d7a13edfd2fdc57c9d76e1fd6d017fb47550c/build/elf/librtld.os elf32-littleriscv)

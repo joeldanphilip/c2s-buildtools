@@ -1,0 +1,17 @@
+skeleton-init-common,./etc/group
+skeleton-init-common,./etc/hosts
+skeleton-init-common,./etc/passwd
+skeleton-init-common,./etc/protocols
+skeleton-init-common,./etc/services
+skeleton-init-common,./etc/shadow
+skeleton-init-common,./etc/profile.d/umask.sh
+skeleton-init-common,./dev/fd
+skeleton-init-common,./dev/stderr
+skeleton-init-common,./dev/stdin
+skeleton-init-common,./dev/stdout
+skeleton-init-common,./etc/mtab
+skeleton-init-common,./etc/resolv.conf
+skeleton-init-common,./lib32
+skeleton-init-common,./usr/lib32
+skeleton-init-common,./etc/profile
+skeleton-init-common,./THIS_IS_NOT_YOUR_ROOT_FILESYSTEM
