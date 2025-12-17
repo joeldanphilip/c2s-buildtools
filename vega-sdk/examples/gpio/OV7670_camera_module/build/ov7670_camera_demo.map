@@ -1,0 +1,799 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(gpio.o)
+                              build/./ov7670.o (GPIO_read_pin)
+/home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(pwmc.o)
+                              build/./ov7670.o (PWMC_Set_Period)
+/home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(stdlib.o)
+                              build/./ov7670.o (printf)
+/home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(rawfloat.o)
+                              /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(stdlib.o) (ecvtbuf)
+/home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(crt.o)
+                              (_start)
+/home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(debug_uart.o)
+                              /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(stdlib.o) (tx_uart)
+/home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(interrupt.o)
+                              /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(pwmc.o) (interrupt_enable)
+/home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/../../../../riscv32-vega-elf/lib/libc.a(libc_a-strnlen.o)
+                              /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(stdlib.o) (strnlen)
+/home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/../../../../riscv32-vega-elf/lib/libc.a(libc_a-memset.o)
+                              /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(stdlib.o) (memset)
+/home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/../../../../riscv32-vega-elf/lib/libc.a(libc_a-memcpy.o)
+                              /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(stdlib.o) (memcpy)
+/home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/../../../../riscv32-vega-elf/lib/libc.a(libm_a-s_modf.o)
+                              /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(rawfloat.o) (modf)
+/home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/../../../../riscv32-vega-elf/lib/libc.a(libm_a-s_fpclassify.o)
+                              /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/../../../../riscv32-vega-elf/lib/libc.a(libm_a-s_modf.o) (__fpclassifyd)
+/home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(adddf3.o)
+                              /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(rawfloat.o) (__adddf3)
+/home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(divdf3.o)
+                              /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(rawfloat.o) (__divdf3)
+/home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(eqdf2.o)
+                              /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(stdlib.o) (__eqdf2)
+/home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(gedf2.o)
+                              /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(rawfloat.o) (__gtdf2)
+/home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(ledf2.o)
+                              /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(stdlib.o) (__ltdf2)
+/home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(muldf3.o)
+                              /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(gpio.o) (__muldf3)
+/home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(subdf3.o)
+                              /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/../../../../riscv32-vega-elf/lib/libc.a(libm_a-s_modf.o) (__subdf3)
+/home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(fixdfsi.o)
+                              /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(rawfloat.o) (__fixdfsi)
+/home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(fixunsdfsi.o)
+                              /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(gpio.o) (__fixunsdfsi)
+/home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(floatunsidf.o)
+                              /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(gpio.o) (__floatunsidf)
+/home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(addsf3.o)
+                              /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(stdlib.o) (__addsf3)
+/home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(divsf3.o)
+                              /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(stdlib.o) (__divsf3)
+/home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(mulsf3.o)
+                              /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(stdlib.o) (__mulsf3)
+/home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(floatsisf.o)
+                              /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(stdlib.o) (__floatsisf)
+/home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(_clzsi2.o)
+                              /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(adddf3.o) (__clzsi2)
+/home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(_clz.o)
+                              /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(_clzsi2.o) (__clz_tab)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 build/./ov7670.o
+ .data          0x00000000        0x0 build/./ov7670.o
+ .bss           0x00000000        0x0 build/./ov7670.o
+ .data          0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(gpio.o)
+ .bss           0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(gpio.o)
+ .data          0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(pwmc.o)
+ .bss           0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(pwmc.o)
+ .data          0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(stdlib.o)
+ .bss           0x00000000       0x10 /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(stdlib.o)
+ .data          0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(rawfloat.o)
+ .text          0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(crt.o)
+ .data          0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(crt.o)
+ .bss           0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(crt.o)
+ .data          0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(debug_uart.o)
+ .bss           0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(debug_uart.o)
+ .data          0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(interrupt.o)
+ .text          0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/../../../../riscv32-vega-elf/lib/libc.a(libc_a-strnlen.o)
+ .data          0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/../../../../riscv32-vega-elf/lib/libc.a(libc_a-strnlen.o)
+ .bss           0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/../../../../riscv32-vega-elf/lib/libc.a(libc_a-strnlen.o)
+ .data          0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/../../../../riscv32-vega-elf/lib/libc.a(libc_a-memset.o)
+ .bss           0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/../../../../riscv32-vega-elf/lib/libc.a(libc_a-memset.o)
+ .text          0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/../../../../riscv32-vega-elf/lib/libc.a(libc_a-memcpy.o)
+ .data          0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/../../../../riscv32-vega-elf/lib/libc.a(libc_a-memcpy.o)
+ .bss           0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/../../../../riscv32-vega-elf/lib/libc.a(libc_a-memcpy.o)
+ .text          0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/../../../../riscv32-vega-elf/lib/libc.a(libm_a-s_modf.o)
+ .data          0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/../../../../riscv32-vega-elf/lib/libc.a(libm_a-s_modf.o)
+ .bss           0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/../../../../riscv32-vega-elf/lib/libc.a(libm_a-s_modf.o)
+ .text          0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/../../../../riscv32-vega-elf/lib/libc.a(libm_a-s_fpclassify.o)
+ .data          0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/../../../../riscv32-vega-elf/lib/libc.a(libm_a-s_fpclassify.o)
+ .bss           0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/../../../../riscv32-vega-elf/lib/libc.a(libm_a-s_fpclassify.o)
+ .data          0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(adddf3.o)
+ .bss           0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(adddf3.o)
+ .data          0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(divdf3.o)
+ .bss           0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(divdf3.o)
+ .data          0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(eqdf2.o)
+ .bss           0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(eqdf2.o)
+ .data          0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(gedf2.o)
+ .bss           0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(gedf2.o)
+ .data          0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(ledf2.o)
+ .bss           0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(ledf2.o)
+ .data          0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(muldf3.o)
+ .bss           0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(muldf3.o)
+ .data          0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(subdf3.o)
+ .bss           0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(subdf3.o)
+ .data          0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(fixdfsi.o)
+ .bss           0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(fixdfsi.o)
+ .data          0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(fixunsdfsi.o)
+ .bss           0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(fixunsdfsi.o)
+ .data          0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(floatunsidf.o)
+ .bss           0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(floatunsidf.o)
+ .data          0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(addsf3.o)
+ .bss           0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(addsf3.o)
+ .data          0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(divsf3.o)
+ .bss           0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(divsf3.o)
+ .data          0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(mulsf3.o)
+ .bss           0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(mulsf3.o)
+ .data          0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(floatsisf.o)
+ .bss           0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(floatsisf.o)
+ .data          0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(_clzsi2.o)
+ .bss           0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(_clzsi2.o)
+ .text          0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(_clz.o)
+ .data          0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(_clz.o)
+ .bss           0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(_clz.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD build/./ov7670.o
+START GROUP
+LOAD /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a
+LOAD /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/../../../../riscv32-vega-elf/lib/libc.a
+LOAD /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a
+LOAD /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/../../../../riscv32-vega-elf/lib/libm.a
+END GROUP
+LOAD /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a
+START GROUP
+LOAD /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/../../../../riscv32-vega-elf/lib/libc.a
+LOAD /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/../../../../riscv32-vega-elf/lib/libgloss.a
+END GROUP
+LOAD /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a
+                0x00002000                        __heap_size = 0x2000
+                0x00020000                        . = 0x20000
+
+.text.init      0x00020000      0x210
+ *(.text.init)
+ .text.init     0x00020000      0x210 /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(crt.o)
+                0x00020000                _start
+                0x000200ec                trap_entry
+
+.text           0x00020210     0x6df4
+ *(.text)
+ .text          0x00020210      0x428 /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(gpio.o)
+                0x00020210                GPIO_read_pin
+                0x000203b4                GPIO_write_pin
+                0x0002054c                pulse_duration
+ .text          0x00020638      0x9ec /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(pwmc.o)
+                0x00020638                PWMC_Set_Period
+                0x0002068c                PWMC_Set_OnOffTime
+                0x000206e0                PWMC_init
+                0x0002084c                PWMC_Set_mode
+                0x000208f0                PWMC_Set_alignment
+                0x00020998                PWMC_Set_RepeatCount
+                0x00020a3c                PWMC_Enable
+                0x00020a84                PWMC_Enable_with_intr
+                0x00020acc                PWMC_Disable
+                0x00020b08                gen_LeftAlign_PWM_OneShort_Mode
+                0x00020c04                gen_RightAlign_PWM_OneShort_Mode
+                0x00020d04                gen_LeftAlign_PWM_Continuous_Mode
+                0x00020ddc                gen_RightAlign_PWM_Continuous_Mode
+                0x00020eac                pwmc_register_isr
+                0x00020fb0                pwm_idle_check_opc
+ .text          0x00021024     0x244c /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(stdlib.o)
+                0x00021024                handle_trap
+                0x000210d4                exit
+                0x000210f8                abort
+                0x00021128                printstr
+                0x0002115c                thread_entry
+                0x00021270                _init
+                0x000212b0                putchar
+                0x00021300                printhex
+                0x000215b0                atoi
+                0x0002163c                atof
+                0x00021780                _usleep
+                0x000217ec                udelay
+                0x0002184c                usleep
+                0x000218c0                get_time
+                0x0002321c                puts
+                0x000232a4                printf
+                0x0002335c                sprintf
+                0x000233d0                _sbrk
+ .text          0x00023470      0x654 /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(rawfloat.o)
+                0x00023944                ecvt
+                0x000239a4                ecvtbuf
+                0x00023a04                fcvt
+                0x00023a64                fcvtbuf
+ .text          0x00023ac4      0x66c /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(debug_uart.o)
+                0x00023ac4                init_uart
+                0x00023b20                tx_uart
+                0x00023b88                rx_uart
+                0x00023bdc                get_decimal
+                0x00023dfc                get_long_int
+                0x00023fb0                get_hex
+ .text          0x00024130      0x2bc /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(interrupt.o)
+                0x00024130                enable_irq
+                0x00024178                enable_sw_irq
+                0x000241c0                disable_sw_irq
+                0x000241ec                interrupt_enable
+                0x00024240                irq_register_handler
+                0x0002428c                sw_irq_register_handler
+                0x000242c0                interrupt_handler
+                0x000243c0                generate_sw_irq
+ .text          0x000243ec       0xdc /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/../../../../riscv32-vega-elf/lib/libc.a(libc_a-memset.o)
+                0x000243ec                memset
+ .text          0x000244c8      0x780 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(adddf3.o)
+                0x000244c8                __adddf3
+ .text          0x00024c48      0x6bc /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(divdf3.o)
+                0x00024c48                __divdf3
+ .text          0x00025304       0x8c /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(eqdf2.o)
+                0x00025304                __eqdf2
+                0x00025304                __nedf2
+ .text          0x00025390       0xd0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(gedf2.o)
+                0x00025390                __gtdf2
+                0x00025390                __gedf2
+ .text          0x00025460       0xd0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(ledf2.o)
+                0x00025460                __ltdf2
+                0x00025460                __ledf2
+ .text          0x00025530      0x5f4 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(muldf3.o)
+                0x00025530                __muldf3
+ .text          0x00025b24      0x790 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(subdf3.o)
+                0x00025b24                __subdf3
+ .text          0x000262b4       0x80 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(fixdfsi.o)
+                0x000262b4                __fixdfsi
+ .text          0x00026334       0x7c /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(fixunsdfsi.o)
+                0x00026334                __fixunsdfsi
+ .text          0x000263b0       0x90 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(floatunsidf.o)
+                0x000263b0                __floatunsidf
+ .text          0x00026440      0x430 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(addsf3.o)
+                0x00026440                __addsf3
+ .text          0x00026870      0x31c /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(divsf3.o)
+                0x00026870                __divsf3
+ .text          0x00026b8c      0x31c /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(mulsf3.o)
+                0x00026b8c                __mulsf3
+ .text          0x00026ea8      0x110 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(floatsisf.o)
+                0x00026ea8                __floatsisf
+ .text          0x00026fb8       0x4c /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(_clzsi2.o)
+                0x00026fb8                __clzsi2
+
+.text.generateClock
+                0x00027004      0x100
+ .text.generateClock
+                0x00027004      0x100 build/./ov7670.o
+                0x00027004                generateClock
+
+.text.setWireInput
+                0x00027104      0x100
+ .text.setWireInput
+                0x00027104      0x100 build/./ov7670.o
+                0x00027104                setWireInput
+
+.text.setWireOutput
+                0x00027204       0xe0
+ .text.setWireOutput
+                0x00027204       0xe0 build/./ov7670.o
+                0x00027204                setWireOutput
+
+.text.bitDelay  0x000272e4       0x2c
+ .text.bitDelay
+                0x000272e4       0x2c build/./ov7670.o
+                0x000272e4                bitDelay
+
+.text.setWireData
+                0x00027310       0xc0
+ .text.setWireData
+                0x00027310       0xc0 build/./ov7670.o
+                0x00027310                setWireData
+
+.text.InitSCCB  0x000273d0       0x58
+ .text.InitSCCB
+                0x000273d0       0x58 build/./ov7670.o
+                0x000273d0                InitSCCB
+
+.text.StartSCCB
+                0x00027428       0x64
+ .text.StartSCCB
+                0x00027428       0x64 build/./ov7670.o
+                0x00027428                StartSCCB
+
+.text.StopSCCB  0x0002748c       0x54
+ .text.StopSCCB
+                0x0002748c       0x54 build/./ov7670.o
+                0x0002748c                StopSCCB
+
+.text.SCCBWrite
+                0x000274e0      0x10c
+ .text.SCCBWrite
+                0x000274e0      0x10c build/./ov7670.o
+                0x000274e0                SCCBWrite
+
+.text.WriteOV7670
+                0x000275ec       0xc0
+ .text.WriteOV7670
+                0x000275ec       0xc0 build/./ov7670.o
+                0x000275ec                WriteOV7670
+
+.text.initOV7670
+                0x000276ac      0x16c
+ .text.initOV7670
+                0x000276ac      0x16c build/./ov7670.o
+                0x000276ac                initOV7670
+
+.text.main      0x00027818      0x2c8
+ .text.main     0x00027818      0x2c8 build/./ov7670.o
+                0x00027818                main
+
+.INTERRUPT_isr_sect_0
+                0x00027ae0      0x108
+ .INTERRUPT_isr_sect_0
+                0x00027ae0      0x108 /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(crt.o)
+                0x00027ae0                INTERRUPT_Handler_0
+
+.text.strnlen   0x00027be8       0x30
+ .text.strnlen  0x00027be8       0x30 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/../../../../riscv32-vega-elf/lib/libc.a(libc_a-strnlen.o)
+                0x00027be8                strnlen
+
+.text.memcpy    0x00027c18      0x128
+ .text.memcpy   0x00027c18      0x128 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/../../../../riscv32-vega-elf/lib/libc.a(libc_a-memcpy.o)
+                0x00027c18                memcpy
+
+.text.modf      0x00027d40      0x1b8
+ .text.modf     0x00027d40      0x1b8 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/../../../../riscv32-vega-elf/lib/libc.a(libm_a-s_modf.o)
+                0x00027d40                modf
+
+.text.__fpclassifyd
+                0x00027ef8       0x70
+ .text.__fpclassifyd
+                0x00027ef8       0x70 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/../../../../riscv32-vega-elf/lib/libc.a(libm_a-s_fpclassify.o)
+                0x00027ef8                __fpclassifyd
+
+.rodata         0x00027f68      0x938
+ .rodata        0x00027f68      0x586 build/./ov7670.o
+ *fill*         0x000284ee        0x2 
+ .rodata        0x000284f0        0x8 /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(gpio.o)
+ .rodata        0x000284f8        0x6 /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(pwmc.o)
+ *fill*         0x000284fe        0x2 
+ .rodata        0x00028500      0x20c /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(stdlib.o)
+ *fill*         0x0002870c        0x4 
+ .rodata        0x00028710       0x18 /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(rawfloat.o)
+ .rodata        0x00028728       0x3c /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(divdf3.o)
+ .rodata        0x00028764       0x3c /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(divsf3.o)
+ .rodata        0x000287a0      0x100 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(_clz.o)
+                0x000287a0                __clz_tab
+
+.rela.dyn       0x000288a0        0x0
+ .rela.got      0x000288a0        0x0 build/./ov7670.o
+ .rela.text     0x000288a0        0x0 build/./ov7670.o
+ .rela.sdata    0x000288a0        0x0 build/./ov7670.o
+ .rela.text.init
+                0x000288a0        0x0 build/./ov7670.o
+
+.data
+ *(.data)
+
+.got            0x000288a0       0x10
+ .got           0x000288a0       0x10 build/./ov7670.o
+                0x000288a0                _GLOBAL_OFFSET_TABLE_
+
+.got.plt        0x000288b0        0x8
+ .got.plt       0x000288b0        0x8 build/./ov7670.o
+
+.sdata          0x000288b8       0x14
+                0x000290b8                        __global_pointer$ = (. + 0x800)
+ *(.srodata.cst16)
+ *(.srodata.cst8)
+ *(.srodata.cst4)
+ *(.srodata.cst2)
+ *(.srodata*)
+ *(.sdata .sdata.* .gnu.linkonce.s.*)
+ .sdata.gpioDirAddr1
+                0x000288b8        0x4 build/./ov7670.o
+                0x000288b8                gpioDirAddr1
+ .sdata.gpioDirAddr2
+                0x000288bc        0x4 build/./ov7670.o
+                0x000288bc                gpioDirAddr2
+ .sdata         0x000288c0        0xc /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(stdlib.o)
+                0x000288cc                        _bss_start = .
+
+.sbss           0x000288cc        0xc
+ *(.sbss .sbss.* .gnu.linkonce.sb.*)
+ .sbss          0x000288cc        0x4 /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(pwmc.o)
+                0x000288cc                gPWMCtransfer
+ .sbss          0x000288d0        0x4 /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(stdlib.o)
+                0x000288d0                loop_count
+ .sbss          0x000288d4        0x4 /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(interrupt.o)
+                0x000288d4                sw_irq_function
+ *(.scommon)
+
+.bss            0x000288d8      0x150
+ *(.bss)
+ .bss           0x000288d8       0x50 /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(rawfloat.o)
+ .bss           0x00028928      0x100 /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(interrupt.o)
+                0x00028928                irq_table
+                0x00028a28                        _bss_end = .
+
+.tdata          0x00028a28        0x0
+                0x00028a28                        _tls_data = .
+ *(.tdata.begin)
+ .tdata.begin   0x00028a28        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(crt.o)
+ *(.tdata)
+ *(.tdata.end)
+ .tdata.end     0x00028a28        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(crt.o)
+
+.tbss           0x00028a28        0x0
+ *(.tbss)
+ *(.tbss.end)
+ .tbss.end      0x00028a28        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(crt.o)
+
+.heap           0x00028a28        0x0
+                0x0002aa28                        PROVIDE (_heap_end = (. + __heap_size))
+                0x00028a28                        _end = .
+OUTPUT(build/ov7670_camera_demo.elf elf32-littleriscv)
+
+.comment        0x00000000       0x2b
+ .comment       0x00000000       0x2b build/./ov7670.o
+                                 0x1a (size before relaxing)
+ .comment       0x0000002b       0x1a /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(gpio.o)
+ .comment       0x0000002b       0x1a /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(pwmc.o)
+ .comment       0x0000002b       0x1a /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(stdlib.o)
+ .comment       0x0000002b       0x1a /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(rawfloat.o)
+ .comment       0x0000002b       0x1a /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(debug_uart.o)
+ .comment       0x0000002b       0x1a /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(interrupt.o)
+ .comment       0x0000002b       0x13 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/../../../../riscv32-vega-elf/lib/libc.a(libc_a-strnlen.o)
+ .comment       0x0000002b       0x13 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/../../../../riscv32-vega-elf/lib/libc.a(libc_a-memcpy.o)
+ .comment       0x0000002b       0x13 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/../../../../riscv32-vega-elf/lib/libc.a(libm_a-s_modf.o)
+ .comment       0x0000002b       0x13 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/../../../../riscv32-vega-elf/lib/libc.a(libm_a-s_fpclassify.o)
+ .comment       0x0000002b       0x1a /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(adddf3.o)
+ .comment       0x0000002b       0x1a /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(divdf3.o)
+ .comment       0x0000002b       0x1a /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(eqdf2.o)
+ .comment       0x0000002b       0x1a /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(gedf2.o)
+ .comment       0x0000002b       0x1a /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(ledf2.o)
+ .comment       0x0000002b       0x1a /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(muldf3.o)
+ .comment       0x0000002b       0x1a /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(subdf3.o)
+ .comment       0x0000002b       0x1a /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(fixdfsi.o)
+ .comment       0x0000002b       0x1a /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(fixunsdfsi.o)
+ .comment       0x0000002b       0x1a /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(floatunsidf.o)
+ .comment       0x0000002b       0x1a /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(addsf3.o)
+ .comment       0x0000002b       0x1a /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(divsf3.o)
+ .comment       0x0000002b       0x1a /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(mulsf3.o)
+ .comment       0x0000002b       0x1a /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(floatsisf.o)
+ .comment       0x0000002b       0x1a /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(_clzsi2.o)
+ .comment       0x0000002b       0x1a /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(_clz.o)
+
+.note.GNU-stack
+                0x00000000        0x0
+ .note.GNU-stack
+                0x00000000        0x0 build/./ov7670.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(gpio.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(pwmc.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(stdlib.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(rawfloat.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(debug_uart.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(interrupt.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/../../../../riscv32-vega-elf/lib/libc.a(libc_a-strnlen.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/../../../../riscv32-vega-elf/lib/libc.a(libc_a-memcpy.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/../../../../riscv32-vega-elf/lib/libc.a(libm_a-s_modf.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/../../../../riscv32-vega-elf/lib/libc.a(libm_a-s_fpclassify.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(adddf3.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(divdf3.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(eqdf2.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(gedf2.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(ledf2.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(muldf3.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(subdf3.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(fixdfsi.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(fixunsdfsi.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(floatunsidf.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(addsf3.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(divsf3.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(mulsf3.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(floatsisf.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(_clzsi2.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(_clz.o)
+
+.riscv.attributes
+                0x00000000       0x4f
+ .riscv.attributes
+                0x00000000       0x4b build/./ov7670.o
+ .riscv.attributes
+                0x0000004b       0x4b /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(gpio.o)
+ .riscv.attributes
+                0x00000096       0x4b /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(pwmc.o)
+ .riscv.attributes
+                0x000000e1       0x4f /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(stdlib.o)
+ .riscv.attributes
+                0x00000130       0x4b /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(rawfloat.o)
+ .riscv.attributes
+                0x0000017b       0x4d /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(crt.o)
+ .riscv.attributes
+                0x000001c8       0x4b /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(debug_uart.o)
+ .riscv.attributes
+                0x00000213       0x4f /home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp/libvega.a(interrupt.o)
+ .riscv.attributes
+                0x00000262       0x4b /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/../../../../riscv32-vega-elf/lib/libc.a(libc_a-strnlen.o)
+ .riscv.attributes
+                0x000002ad       0x49 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/../../../../riscv32-vega-elf/lib/libc.a(libc_a-memset.o)
+ .riscv.attributes
+                0x000002f6       0x4b /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/../../../../riscv32-vega-elf/lib/libc.a(libc_a-memcpy.o)
+ .riscv.attributes
+                0x00000341       0x4b /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/../../../../riscv32-vega-elf/lib/libc.a(libm_a-s_modf.o)
+ .riscv.attributes
+                0x0000038c       0x4b /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/../../../../riscv32-vega-elf/lib/libc.a(libm_a-s_fpclassify.o)
+ .riscv.attributes
+                0x000003d7       0x4b /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(adddf3.o)
+ .riscv.attributes
+                0x00000422       0x4b /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(divdf3.o)
+ .riscv.attributes
+                0x0000046d       0x4b /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(eqdf2.o)
+ .riscv.attributes
+                0x000004b8       0x4b /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(gedf2.o)
+ .riscv.attributes
+                0x00000503       0x4b /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(ledf2.o)
+ .riscv.attributes
+                0x0000054e       0x4b /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(muldf3.o)
+ .riscv.attributes
+                0x00000599       0x4b /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(subdf3.o)
+ .riscv.attributes
+                0x000005e4       0x4b /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(fixdfsi.o)
+ .riscv.attributes
+                0x0000062f       0x4b /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(fixunsdfsi.o)
+ .riscv.attributes
+                0x0000067a       0x4b /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(floatunsidf.o)
+ .riscv.attributes
+                0x000006c5       0x4b /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(addsf3.o)
+ .riscv.attributes
+                0x00000710       0x4b /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(divsf3.o)
+ .riscv.attributes
+                0x0000075b       0x4b /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(mulsf3.o)
+ .riscv.attributes
+                0x000007a6       0x4b /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(floatsisf.o)
+ .riscv.attributes
+                0x000007f1       0x4b /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(_clzsi2.o)
+ .riscv.attributes
+                0x0000083c       0x4b /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(_clz.o)
+
+.debug_info     0x00000000     0x312f
+ .debug_info    0x00000000      0x4f6 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(adddf3.o)
+ .debug_info    0x000004f6      0x683 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(divdf3.o)
+ .debug_info    0x00000b79      0x221 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(eqdf2.o)
+ .debug_info    0x00000d9a      0x220 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(gedf2.o)
+ .debug_info    0x00000fba      0x220 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(ledf2.o)
+ .debug_info    0x000011da      0x6ac /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(muldf3.o)
+ .debug_info    0x00001886      0x4f2 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(subdf3.o)
+ .debug_info    0x00001d78      0x1c2 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(fixdfsi.o)
+ .debug_info    0x00001f3a      0x1a9 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(fixunsdfsi.o)
+ .debug_info    0x000020e3      0x25d /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(floatunsidf.o)
+ .debug_info    0x00002340      0x2e8 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(addsf3.o)
+ .debug_info    0x00002628      0x360 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(divsf3.o)
+ .debug_info    0x00002988      0x350 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(mulsf3.o)
+ .debug_info    0x00002cd8      0x213 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(floatsisf.o)
+ .debug_info    0x00002eeb      0x157 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(_clzsi2.o)
+ .debug_info    0x00003042       0xed /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(_clz.o)
+
+.debug_abbrev   0x00000000     0x151f
+ .debug_abbrev  0x00000000      0x186 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(adddf3.o)
+ .debug_abbrev  0x00000186      0x17c /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(divdf3.o)
+ .debug_abbrev  0x00000302      0x153 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(eqdf2.o)
+ .debug_abbrev  0x00000455      0x168 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(gedf2.o)
+ .debug_abbrev  0x000005bd      0x168 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(ledf2.o)
+ .debug_abbrev  0x00000725      0x185 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(muldf3.o)
+ .debug_abbrev  0x000008aa      0x186 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(subdf3.o)
+ .debug_abbrev  0x00000a30      0x15f /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(fixdfsi.o)
+ .debug_abbrev  0x00000b8f      0x162 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(fixunsdfsi.o)
+ .debug_abbrev  0x00000cf1      0x163 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(floatunsidf.o)
+ .debug_abbrev  0x00000e54      0x17d /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(addsf3.o)
+ .debug_abbrev  0x00000fd1      0x14c /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(divsf3.o)
+ .debug_abbrev  0x0000111d      0x15b /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(mulsf3.o)
+ .debug_abbrev  0x00001278      0x16d /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(floatsisf.o)
+ .debug_abbrev  0x000013e5       0xca /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(_clzsi2.o)
+ .debug_abbrev  0x000014af       0x70 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(_clz.o)
+
+.debug_loclists
+                0x00000000     0x3cd2
+ .debug_loclists
+                0x00000000      0xa8e /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(adddf3.o)
+ .debug_loclists
+                0x00000a8e      0xa17 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(divdf3.o)
+ .debug_loclists
+                0x000014a5       0x6f /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(eqdf2.o)
+ .debug_loclists
+                0x00001514      0x117 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(gedf2.o)
+ .debug_loclists
+                0x0000162b      0x117 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(ledf2.o)
+ .debug_loclists
+                0x00001742      0x7bb /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(muldf3.o)
+ .debug_loclists
+                0x00001efd      0xafd /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(subdf3.o)
+ .debug_loclists
+                0x000029fa       0xac /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(fixdfsi.o)
+ .debug_loclists
+                0x00002aa6       0x72 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(fixunsdfsi.o)
+ .debug_loclists
+                0x00002b18       0xc4 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(floatunsidf.o)
+ .debug_loclists
+                0x00002bdc      0x828 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(addsf3.o)
+ .debug_loclists
+                0x00003404      0x3c2 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(divsf3.o)
+ .debug_loclists
+                0x000037c6      0x337 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(mulsf3.o)
+ .debug_loclists
+                0x00003afd      0x191 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(floatsisf.o)
+ .debug_loclists
+                0x00003c8e       0x44 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(_clzsi2.o)
+
+.debug_aranges  0x00000000      0x1f8
+ .debug_aranges
+                0x00000000       0x20 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(adddf3.o)
+ .debug_aranges
+                0x00000020       0x20 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(divdf3.o)
+ .debug_aranges
+                0x00000040       0x20 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(eqdf2.o)
+ .debug_aranges
+                0x00000060       0x20 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(gedf2.o)
+ .debug_aranges
+                0x00000080       0x20 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(ledf2.o)
+ .debug_aranges
+                0x000000a0       0x20 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(muldf3.o)
+ .debug_aranges
+                0x000000c0       0x20 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(subdf3.o)
+ .debug_aranges
+                0x000000e0       0x20 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(fixdfsi.o)
+ .debug_aranges
+                0x00000100       0x20 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(fixunsdfsi.o)
+ .debug_aranges
+                0x00000120       0x20 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(floatunsidf.o)
+ .debug_aranges
+                0x00000140       0x20 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(addsf3.o)
+ .debug_aranges
+                0x00000160       0x20 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(divsf3.o)
+ .debug_aranges
+                0x00000180       0x20 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(mulsf3.o)
+ .debug_aranges
+                0x000001a0       0x20 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(floatsisf.o)
+ .debug_aranges
+                0x000001c0       0x20 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(_clzsi2.o)
+ .debug_aranges
+                0x000001e0       0x18 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(_clz.o)
+
+.debug_rnglists
+                0x00000000      0x6d2
+ .debug_rnglists
+                0x00000000       0xf2 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(adddf3.o)
+ .debug_rnglists
+                0x000000f2       0xce /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(divdf3.o)
+ .debug_rnglists
+                0x000001c0       0x23 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(eqdf2.o)
+ .debug_rnglists
+                0x000001e3       0x33 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(gedf2.o)
+ .debug_rnglists
+                0x00000216       0x33 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(ledf2.o)
+ .debug_rnglists
+                0x00000249      0x149 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(muldf3.o)
+ .debug_rnglists
+                0x00000392       0xf2 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(subdf3.o)
+ .debug_rnglists
+                0x00000484       0x13 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(fixdfsi.o)
+ .debug_rnglists
+                0x00000497       0x16 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(fixunsdfsi.o)
+ .debug_rnglists
+                0x000004ad       0x2d /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(floatunsidf.o)
+ .debug_rnglists
+                0x000004da       0xce /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(addsf3.o)
+ .debug_rnglists
+                0x000005a8       0x68 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(divsf3.o)
+ .debug_rnglists
+                0x00000610       0x63 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(mulsf3.o)
+ .debug_rnglists
+                0x00000673       0x49 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(floatsisf.o)
+ .debug_rnglists
+                0x000006bc       0x16 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(_clzsi2.o)
+
+.debug_line     0x00000000     0x788a
+ .debug_line    0x00000000     0x1377 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(adddf3.o)
+ .debug_line    0x00001377     0x110e /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(divdf3.o)
+ .debug_line    0x00002485      0x277 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(eqdf2.o)
+ .debug_line    0x000026fc      0x347 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(gedf2.o)
+ .debug_line    0x00002a43      0x347 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(ledf2.o)
+ .debug_line    0x00002d8a      0xf02 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(muldf3.o)
+ .debug_line    0x00003c8c     0x1384 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(subdf3.o)
+ .debug_line    0x00005010      0x1df /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(fixdfsi.o)
+ .debug_line    0x000051ef      0x1bb /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(fixunsdfsi.o)
+ .debug_line    0x000053aa      0x223 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(floatunsidf.o)
+ .debug_line    0x000055cd      0xd4c /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(addsf3.o)
+ .debug_line    0x00006319      0x8cd /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(divsf3.o)
+ .debug_line    0x00006be6      0x810 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(mulsf3.o)
+ .debug_line    0x000073f6      0x37a /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(floatsisf.o)
+ .debug_line    0x00007770       0xdb /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(_clzsi2.o)
+ .debug_line    0x0000784b       0x3f /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(_clz.o)
+
+.debug_str      0x00000000      0x7da
+ .debug_str     0x00000000      0x7da /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(adddf3.o)
+                                0x2ae (size before relaxing)
+ .debug_str     0x000007da      0x370 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(divdf3.o)
+ .debug_str     0x000007da      0x1c0 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(eqdf2.o)
+ .debug_str     0x000007da      0x1e4 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(gedf2.o)
+ .debug_str     0x000007da      0x1e4 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(ledf2.o)
+ .debug_str     0x000007da      0x3c8 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(muldf3.o)
+ .debug_str     0x000007da      0x2ae /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(subdf3.o)
+ .debug_str     0x000007da      0x1bb /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(fixdfsi.o)
+ .debug_str     0x000007da      0x1b7 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(fixunsdfsi.o)
+ .debug_str     0x000007da      0x253 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(floatunsidf.o)
+ .debug_str     0x000007da      0x271 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(addsf3.o)
+ .debug_str     0x000007da      0x2db /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(divsf3.o)
+ .debug_str     0x000007da      0x296 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(mulsf3.o)
+ .debug_str     0x000007da      0x239 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(floatsisf.o)
+ .debug_str     0x000007da      0x1de /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(_clzsi2.o)
+ .debug_str     0x000007da      0x1c1 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(_clz.o)
+
+.debug_line_str
+                0x00000000      0x2ff
+ .debug_line_str
+                0x00000000      0x2ff /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(adddf3.o)
+                                 0xf2 (size before relaxing)
+ .debug_line_str
+                0x000002ff       0xfc /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(divdf3.o)
+ .debug_line_str
+                0x000002ff       0xff /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(eqdf2.o)
+ .debug_line_str
+                0x000002ff       0xff /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(gedf2.o)
+ .debug_line_str
+                0x000002ff       0xff /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(ledf2.o)
+ .debug_line_str
+                0x000002ff       0xfc /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(muldf3.o)
+ .debug_line_str
+                0x000002ff       0xf2 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(subdf3.o)
+ .debug_line_str
+                0x000002ff       0xff /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(fixdfsi.o)
+ .debug_line_str
+                0x000002ff      0x108 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(fixunsdfsi.o)
+ .debug_line_str
+                0x000002ff      0x10b /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(floatunsidf.o)
+ .debug_line_str
+                0x000002ff       0xf2 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(addsf3.o)
+ .debug_line_str
+                0x000002ff       0xf2 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(divsf3.o)
+ .debug_line_str
+                0x000002ff       0xfc /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(mulsf3.o)
+ .debug_line_str
+                0x000002ff      0x105 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(floatsisf.o)
+ .debug_line_str
+                0x000002ff       0xe6 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(_clzsi2.o)
+ .debug_line_str
+                0x000002ff       0xe6 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(_clz.o)
+
+.debug_frame    0x00000000      0x35c
+ .debug_frame   0x00000000       0x4c /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(adddf3.o)
+ .debug_frame   0x0000004c       0x5c /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(divdf3.o)
+ .debug_frame   0x000000a8       0x20 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(eqdf2.o)
+ .debug_frame   0x000000c8       0x20 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(gedf2.o)
+ .debug_frame   0x000000e8       0x20 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(ledf2.o)
+ .debug_frame   0x00000108       0x5c /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(muldf3.o)
+ .debug_frame   0x00000164       0x4c /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(subdf3.o)
+ .debug_frame   0x000001b0       0x20 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(fixdfsi.o)
+ .debug_frame   0x000001d0       0x20 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(fixunsdfsi.o)
+ .debug_frame   0x000001f0       0x3c /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(floatunsidf.o)
+ .debug_frame   0x0000022c       0x40 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(addsf3.o)
+ .debug_frame   0x0000026c       0x4c /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(divsf3.o)
+ .debug_frame   0x000002b8       0x4c /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(mulsf3.o)
+ .debug_frame   0x00000304       0x38 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(floatsisf.o)
+ .debug_frame   0x0000033c       0x20 /home/joelphilip/Documents/C2S/Trisul32/vega-tools/toolchain/bin/../lib/gcc/riscv32-vega-elf/14.2.0/libgcc.a(_clzsi2.o)

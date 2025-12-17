@@ -1,0 +1,1 @@
+drivers/qspi/qspi.o: drivers/qspi/qspi.c

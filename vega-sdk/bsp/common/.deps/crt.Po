@@ -1,0 +1,3 @@
+common/crt.o: common/crt.S include/encoding.h include/config.h
+include/encoding.h:
+include/config.h:
