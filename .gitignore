@@ -13,5 +13,12 @@ buildroot/output/
 *.d
 *.dtb
 *.dtbo
-*/buildroot/dl/
-*/buildroot/output/
+**/build
+**/.cproject
+**/.project
+**/.settings
+**/*.cache
+**/bin
+**/.dirstamp
+**/benchmarks
+

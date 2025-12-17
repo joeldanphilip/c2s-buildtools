@@ -154,8 +154,8 @@ configure:3910: $? = 0
 configure:3922: result: yes
 configure:3942: checking whether make supports the include directive
 configure:3957: make -f confmf.GNU && cat confinc.out
-make[1]: Entering directory '/home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp'
-make[1]: Leaving directory '/home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp'
+make[3]: Entering directory '/home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp'
+make[3]: Leaving directory '/home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp'
 this is the am__doit target
 configure:3960: $? = 0
 configure:3979: result: yes (GNU style)
@@ -197,9 +197,9 @@ on joelphilip-LOQ
 config.status:779: creating Makefile
 config.status:951: executing depfiles commands
 config.status:1028: cd .       && sed -e '/# am--include-marker/d' Makefile         | make -f - am--depfiles
-make[1]: Entering directory '/home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp'
-make[1]: Nothing to be done for 'am--depfiles'.
-make[1]: Leaving directory '/home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp'
+make[3]: Entering directory '/home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp'
+make[3]: Nothing to be done for 'am--depfiles'.
+make[3]: Leaving directory '/home/joelphilip/Documents/C2S/Trisul32/vega-sdk/bsp'
 config.status:1033: $? = 0
 
 ## ---------------- ##
